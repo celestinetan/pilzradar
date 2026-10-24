@@ -1,0 +1,4401 @@
+{
+ "updated": "2026-10-24T11:55:00+02:00",
+ "sightingsWindow": [
+  "2026-09-24",
+  "2026-10-24"
+ ],
+ "latestRecord": "2026-10-05",
+ "regions": [
+  {
+   "id": "zh",
+   "name": "Zürich",
+   "lat": 47.371,
+   "lng": 8.541
+  },
+  {
+   "id": "bs",
+   "name": "Basel",
+   "lat": 47.561,
+   "lng": 7.591
+  },
+  {
+   "id": "be",
+   "name": "Bern",
+   "lat": 46.951,
+   "lng": 7.451
+  },
+  {
+   "id": "lu",
+   "name": "Luzern",
+   "lat": 47.051,
+   "lng": 8.309
+  },
+  {
+   "id": "sg",
+   "name": "St. Gallen",
+   "lat": 47.421,
+   "lng": 9.371
+  },
+  {
+   "id": "la",
+   "name": "Lausanne",
+   "lat": 46.521,
+   "lng": 6.631
+  },
+  {
+   "id": "si",
+   "name": "Sion",
+   "lat": 46.231,
+   "lng": 7.351
+  },
+  {
+   "id": "lg",
+   "name": "Lugano",
+   "lat": 46.011,
+   "lng": 8.961
+  },
+  {
+   "id": "gr",
+   "name": "Chur",
+   "lat": 46.851,
+   "lng": 9.531
+  }
+ ],
+ "weather": {
+  "zh": [
+   {
+    "date": "2026-10-18",
+    "rain": 0.2,
+    "tmin": 9.3,
+    "tmax": 12.2
+   },
+   {
+    "date": "2026-10-19",
+    "rain": 0.0,
+    "tmin": 8.8,
+    "tmax": 14.4
+   },
+   {
+    "date": "2026-10-20",
+    "rain": 0.0,
+    "tmin": 10.4,
+    "tmax": 15.4
+   },
+   {
+    "date": "2026-10-21",
+    "rain": 13.6,
+    "tmin": 7.5,
+    "tmax": 10.7
+   },
+   {
+    "date": "2026-10-22",
+    "rain": 0.0,
+    "tmin": 6.0,
+    "tmax": 12.8
+   },
+   {
+    "date": "2026-10-23",
+    "rain": 2.1,
+    "tmin": 3.9,
+    "tmax": 13.0
+   },
+   {
+    "date": "2026-10-24",
+    "rain": 3.9,
+    "tmin": 4.2,
+    "tmax": 9.8
+   },
+   {
+    "date": "2026-10-25",
+    "rain": 15.9,
+    "tmin": 6.3,
+    "tmax": 12.1
+   },
+   {
+    "date": "2026-10-26",
+    "rain": 0.0,
+    "tmin": 4.9,
+    "tmax": 11.7
+   },
+   {
+    "date": "2026-10-27",
+    "rain": 0.0,
+    "tmin": 6.6,
+    "tmax": 16.1
+   },
+   {
+    "date": "2026-10-28",
+    "rain": 3.0,
+    "tmin": 9.0,
+    "tmax": 11.4
+   },
+   {
+    "date": "2026-10-29",
+    "rain": 0.0,
+    "tmin": 4.4,
+    "tmax": 12.2
+   },
+   {
+    "date": "2026-10-30",
+    "rain": 0.0,
+    "tmin": 2.2,
+    "tmax": 9.6
+   },
+   {
+    "date": "2026-10-31",
+    "rain": 0.1,
+    "tmin": 1.9,
+    "tmax": 8.4
+   },
+   {
+    "date": "2026-11-01",
+    "rain": 7.1,
+    "tmin": 5.4,
+    "tmax": 9.8
+   },
+   {
+    "date": "2026-11-02",
+    "rain": 0.0,
+    "tmin": 1.6,
+    "tmax": 8.9
+   }
+  ],
+  "bs": [
+   {
+    "date": "2026-10-20",
+    "rain": 0.0,
+    "tmin": 7.0,
+    "tmax": 16.8
+   },
+   {
+    "date": "2026-10-21",
+    "rain": 11.0,
+    "tmin": 8.2,
+    "tmax": 12.2
+   },
+   {
+    "date": "2026-10-22",
+    "rain": 0.5,
+    "tmin": 5.0,
+    "tmax": 14.4
+   },
+   {
+    "date": "2026-10-23",
+    "rain": 2.2,
+    "tmin": 5.5,
+    "tmax": 14.9
+   },
+   {
+    "date": "2026-10-24",
+    "rain": 3.8,
+    "tmin": 5.9,
+    "tmax": 10.7
+   },
+   {
+    "date": "2026-10-25",
+    "rain": 9.4,
+    "tmin": 8.0,
+    "tmax": 14.0
+   },
+   {
+    "date": "2026-10-26",
+    "rain": 0.0,
+    "tmin": 6.0,
+    "tmax": 13.4
+   },
+   {
+    "date": "2026-10-27",
+    "rain": 0.0,
+    "tmin": 6.8,
+    "tmax": 18.5
+   },
+   {
+    "date": "2026-10-28",
+    "rain": 1.5,
+    "tmin": 9.7,
+    "tmax": 15.2
+   },
+   {
+    "date": "2026-10-29",
+    "rain": 0.0,
+    "tmin": 6.5,
+    "tmax": 12.7
+   },
+   {
+    "date": "2026-10-30",
+    "rain": 0.0,
+    "tmin": 3.9,
+    "tmax": 11.6
+   },
+   {
+    "date": "2026-10-31",
+    "rain": 0.0,
+    "tmin": 4.0,
+    "tmax": 10.4
+   },
+   {
+    "date": "2026-11-01",
+    "rain": 0.0,
+    "tmin": 1.8,
+    "tmax": 7.7
+   }
+  ],
+  "be": [
+   {
+    "date": "2026-10-20",
+    "rain": 0.1,
+    "tmin": 9.3,
+    "tmax": 13.9
+   },
+   {
+    "date": "2026-10-21",
+    "rain": 16.3,
+    "tmin": 6.4,
+    "tmax": 10.5
+   },
+   {
+    "date": "2026-10-22",
+    "rain": 0.5,
+    "tmin": 3.5,
+    "tmax": 12.4
+   },
+   {
+    "date": "2026-10-23",
+    "rain": 3.4,
+    "tmin": 1.7,
+    "tmax": 13.2
+   },
+   {
+    "date": "2026-10-24",
+    "rain": 3.0,
+    "tmin": 4.7,
+    "tmax": 9.2
+   },
+   {
+    "date": "2026-10-25",
+    "rain": 10.1,
+    "tmin": 6.2,
+    "tmax": 12.0
+   },
+   {
+    "date": "2026-10-26",
+    "rain": 0.0,
+    "tmin": 7.1,
+    "tmax": 12.9
+   },
+   {
+    "date": "2026-10-27",
+    "rain": 0.0,
+    "tmin": 7.0,
+    "tmax": 18.2
+   },
+   {
+    "date": "2026-10-28",
+    "rain": 0.1,
+    "tmin": 9.7,
+    "tmax": 16.2
+   },
+   {
+    "date": "2026-10-29",
+    "rain": 0.0,
+    "tmin": 5.8,
+    "tmax": 12.0
+   },
+   {
+    "date": "2026-10-30",
+    "rain": 0.0,
+    "tmin": 4.5,
+    "tmax": 11.1
+   },
+   {
+    "date": "2026-10-31",
+    "rain": 0.0,
+    "tmin": 3.6,
+    "tmax": 8.6
+   }
+  ],
+  "lu": [
+   {
+    "date": "2026-10-20",
+    "rain": 0.5,
+    "tmin": 11.3,
+    "tmax": 13.2
+   },
+   {
+    "date": "2026-10-21",
+    "rain": 15.5,
+    "tmin": 8.3,
+    "tmax": 11.8
+   },
+   {
+    "date": "2026-10-22",
+    "rain": 0.6,
+    "tmin": 6.7,
+    "tmax": 13.5
+   },
+   {
+    "date": "2026-10-23",
+    "rain": 2.0,
+    "tmin": 5.6,
+    "tmax": 13.9
+   },
+   {
+    "date": "2026-10-24",
+    "rain": 9.6,
+    "tmin": 5.2,
+    "tmax": 9.6
+   },
+   {
+    "date": "2026-10-25",
+    "rain": 7.2,
+    "tmin": 7.4,
+    "tmax": 16.8
+   },
+   {
+    "date": "2026-10-26",
+    "rain": 0.0,
+    "tmin": 5.9,
+    "tmax": 11.6
+   },
+   {
+    "date": "2026-10-27",
+    "rain": 0.0,
+    "tmin": 6.4,
+    "tmax": 16.3
+   },
+   {
+    "date": "2026-10-28",
+    "rain": 0.7,
+    "tmin": 9.9,
+    "tmax": 13.5
+   },
+   {
+    "date": "2026-10-29",
+    "rain": 0.2,
+    "tmin": 8.9,
+    "tmax": 11.4
+   },
+   {
+    "date": "2026-10-30",
+    "rain": 0.1,
+    "tmin": 7.2,
+    "tmax": 9.8
+   },
+   {
+    "date": "2026-10-31",
+    "rain": 0.1,
+    "tmin": 6.2,
+    "tmax": 8.8
+   },
+   {
+    "date": "2026-11-01",
+    "rain": 0.1,
+    "tmin": 5.3,
+    "tmax": 7.2
+   }
+  ],
+  "sg": [
+   {
+    "date": "2026-10-20",
+    "rain": 0.0,
+    "tmin": 10.4,
+    "tmax": 13.9
+   },
+   {
+    "date": "2026-10-21",
+    "rain": 15.5,
+    "tmin": 6.0,
+    "tmax": 10.1
+   },
+   {
+    "date": "2026-10-22",
+    "rain": 0.0,
+    "tmin": 3.4,
+    "tmax": 10.7
+   },
+   {
+    "date": "2026-10-23",
+    "rain": 2.9,
+    "tmin": 3.2,
+    "tmax": 14.1
+   },
+   {
+    "date": "2026-10-24",
+    "rain": 4.3,
+    "tmin": 2.2,
+    "tmax": 7.2
+   },
+   {
+    "date": "2026-10-25",
+    "rain": 17.6,
+    "tmin": 3.9,
+    "tmax": 11.8
+   },
+   {
+    "date": "2026-10-26",
+    "rain": 0.0,
+    "tmin": 4.6,
+    "tmax": 10.6
+   },
+   {
+    "date": "2026-10-27",
+    "rain": 0.0,
+    "tmin": 8.5,
+    "tmax": 16.3
+   },
+   {
+    "date": "2026-10-28",
+    "rain": 2.6,
+    "tmin": 8.7,
+    "tmax": 10.9
+   },
+   {
+    "date": "2026-10-29",
+    "rain": 0.0,
+    "tmin": 4.3,
+    "tmax": 10.0
+   },
+   {
+    "date": "2026-10-30",
+    "rain": 0.0,
+    "tmin": 2.2,
+    "tmax": 8.8
+   },
+   {
+    "date": "2026-10-31",
+    "rain": 0.0,
+    "tmin": 2.2,
+    "tmax": 8.0
+   },
+   {
+    "date": "2026-11-01",
+    "rain": 5.5,
+    "tmin": 3.7,
+    "tmax": 8.5
+   },
+   {
+    "date": "2026-11-02",
+    "rain": 0.0,
+    "tmin": 2.7,
+    "tmax": 7.0
+   }
+  ],
+  "la": [
+   {
+    "date": "2026-10-20",
+    "rain": 1.3,
+    "tmin": 11.6,
+    "tmax": 16.9
+   },
+   {
+    "date": "2026-10-21",
+    "rain": 28.8,
+    "tmin": 8.4,
+    "tmax": 13.4
+   },
+   {
+    "date": "2026-10-22",
+    "rain": 6.1,
+    "tmin": 8.1,
+    "tmax": 12.1
+   },
+   {
+    "date": "2026-10-23",
+    "rain": 14.0,
+    "tmin": 8.2,
+    "tmax": 12.6
+   },
+   {
+    "date": "2026-10-24",
+    "rain": 11.9,
+    "tmin": 6.7,
+    "tmax": 8.5
+   },
+   {
+    "date": "2026-10-25",
+    "rain": 14.8,
+    "tmin": 8.3,
+    "tmax": 12.8
+   },
+   {
+    "date": "2026-10-26",
+    "rain": 0.0,
+    "tmin": 7.3,
+    "tmax": 12.7
+   },
+   {
+    "date": "2026-10-27",
+    "rain": 0.0,
+    "tmin": 10.6,
+    "tmax": 16.0
+   },
+   {
+    "date": "2026-10-28",
+    "rain": 0.0,
+    "tmin": 12.1,
+    "tmax": 15.9
+   },
+   {
+    "date": "2026-10-29",
+    "rain": 0.0,
+    "tmin": 10.4,
+    "tmax": 13.2
+   },
+   {
+    "date": "2026-10-30",
+    "rain": 0.0,
+    "tmin": 8.3,
+    "tmax": 12.2
+   },
+   {
+    "date": "2026-10-31",
+    "rain": 0.1,
+    "tmin": 8.1,
+    "tmax": 11.4
+   },
+   {
+    "date": "2026-11-01",
+    "rain": 0.0,
+    "tmin": 6.0,
+    "tmax": 9.5
+   }
+  ],
+  "si": [
+   {
+    "date": "2026-10-20",
+    "rain": 2.7,
+    "tmin": 12.4,
+    "tmax": 19.3
+   },
+   {
+    "date": "2026-10-21",
+    "rain": 14.6,
+    "tmin": 7.4,
+    "tmax": 13.0
+   },
+   {
+    "date": "2026-10-22",
+    "rain": 0.0,
+    "tmin": 5.0,
+    "tmax": 14.1
+   },
+   {
+    "date": "2026-10-23",
+    "rain": 11.5,
+    "tmin": 5.6,
+    "tmax": 9.9
+   },
+   {
+    "date": "2026-10-24",
+    "rain": 14.2,
+    "tmin": 1.9,
+    "tmax": 8.6
+   },
+   {
+    "date": "2026-10-25",
+    "rain": 22.4,
+    "tmin": 6.2,
+    "tmax": 12.5
+   },
+   {
+    "date": "2026-10-26",
+    "rain": 0.0,
+    "tmin": 2.6,
+    "tmax": 14.4
+   },
+   {
+    "date": "2026-10-27",
+    "rain": 0.0,
+    "tmin": 9.5,
+    "tmax": 20.1
+   },
+   {
+    "date": "2026-10-28",
+    "rain": 0.0,
+    "tmin": 9.8,
+    "tmax": 18.1
+   },
+   {
+    "date": "2026-10-29",
+    "rain": 0.0,
+    "tmin": 7.8,
+    "tmax": 19.0
+   },
+   {
+    "date": "2026-10-30",
+    "rain": 0.0,
+    "tmin": 8.4,
+    "tmax": 18.7
+   },
+   {
+    "date": "2026-10-31",
+    "rain": 0.2,
+    "tmin": 7.4,
+    "tmax": 17.1
+   },
+   {
+    "date": "2026-11-01",
+    "rain": 3.6,
+    "tmin": 9.9,
+    "tmax": 11.9
+   },
+   {
+    "date": "2026-11-02",
+    "rain": 0.0,
+    "tmin": 5.3,
+    "tmax": 14.5
+   }
+  ],
+  "lg": [
+   {
+    "date": "2026-10-20",
+    "rain": 24.1,
+    "tmin": 14.3,
+    "tmax": 17.0
+   },
+   {
+    "date": "2026-10-21",
+    "rain": 52.2,
+    "tmin": 12.2,
+    "tmax": 16.1
+   },
+   {
+    "date": "2026-10-22",
+    "rain": 0.0,
+    "tmin": 8.7,
+    "tmax": 17.3
+   },
+   {
+    "date": "2026-10-23",
+    "rain": 3.4,
+    "tmin": 8.2,
+    "tmax": 12.7
+   },
+   {
+    "date": "2026-10-24",
+    "rain": 0.0,
+    "tmin": 5.2,
+    "tmax": 15.3
+   },
+   {
+    "date": "2026-10-25",
+    "rain": 0.3,
+    "tmin": 5.6,
+    "tmax": 12.9
+   },
+   {
+    "date": "2026-10-26",
+    "rain": 0.0,
+    "tmin": 4.3,
+    "tmax": 16.1
+   },
+   {
+    "date": "2026-10-27",
+    "rain": 0.0,
+    "tmin": 7.4,
+    "tmax": 18.5
+   },
+   {
+    "date": "2026-10-28",
+    "rain": 0.0,
+    "tmin": 11.2,
+    "tmax": 21.7
+   },
+   {
+    "date": "2026-10-29",
+    "rain": 0.0,
+    "tmin": 11.2,
+    "tmax": 19.7
+   },
+   {
+    "date": "2026-10-30",
+    "rain": 0.0,
+    "tmin": 9.5,
+    "tmax": 18.8
+   },
+   {
+    "date": "2026-10-31",
+    "rain": 0.2,
+    "tmin": 8.6,
+    "tmax": 15.2
+   },
+   {
+    "date": "2026-11-01",
+    "rain": 1.2,
+    "tmin": 9.4,
+    "tmax": 11.1
+   }
+  ],
+  "gr": [
+   {
+    "date": "2026-10-20",
+    "rain": 1.2,
+    "tmin": 13.6,
+    "tmax": 19.7
+   },
+   {
+    "date": "2026-10-21",
+    "rain": 29.4,
+    "tmin": 5.4,
+    "tmax": 14.6
+   },
+   {
+    "date": "2026-10-22",
+    "rain": 1.8,
+    "tmin": 1.9,
+    "tmax": 10.1
+   },
+   {
+    "date": "2026-10-23",
+    "rain": 3.5,
+    "tmin": 2.9,
+    "tmax": 13.0
+   },
+   {
+    "date": "2026-10-24",
+    "rain": 6.8,
+    "tmin": 2.9,
+    "tmax": 6.6
+   },
+   {
+    "date": "2026-10-25",
+    "rain": 11.9,
+    "tmin": 4.6,
+    "tmax": 12.0
+   },
+   {
+    "date": "2026-10-26",
+    "rain": 0.2,
+    "tmin": 2.4,
+    "tmax": 14.0
+   },
+   {
+    "date": "2026-10-27",
+    "rain": 0.0,
+    "tmin": 7.6,
+    "tmax": 20.3
+   },
+   {
+    "date": "2026-10-28",
+    "rain": 0.0,
+    "tmin": 8.5,
+    "tmax": 17.4
+   },
+   {
+    "date": "2026-10-29",
+    "rain": 0.0,
+    "tmin": 5.3,
+    "tmax": 16.7
+   },
+   {
+    "date": "2026-10-30",
+    "rain": 0.0,
+    "tmin": 5.4,
+    "tmax": 17.4
+   },
+   {
+    "date": "2026-10-31",
+    "rain": 0.0,
+    "tmin": 6.2,
+    "tmax": 16.3
+   },
+   {
+    "date": "2026-11-01",
+    "rain": 0.0,
+    "tmin": 1.9,
+    "tmax": 11.3
+   }
+  ]
+ },
+ "sightings": [
+  {
+   "k": 6566490140,
+   "d": "2026-09-24",
+   "n": "Laetiporus sulphureus",
+   "lat": 46.239073,
+   "lng": 7.387643,
+   "p": "Sion",
+   "c": "VS"
+  },
+  {
+   "k": 6566571415,
+   "d": "2026-09-24",
+   "n": "Macrolepiota procera",
+   "lat": 47.035522,
+   "lng": 8.776389,
+   "p": "Switzerland",
+   "c": "SZ"
+  },
+  {
+   "k": 6566900398,
+   "d": "2026-09-24",
+   "n": "Laetiporus sulphureus",
+   "lat": 47.005678,
+   "lng": 6.99705,
+   "p": "Neuenburgersee",
+   "c": "NE"
+  },
+  {
+   "k": 6566966095,
+   "d": "2026-09-24",
+   "n": "Armillaria ostoyae",
+   "lat": 46.016206,
+   "lng": 7.119381,
+   "p": "Orsières",
+   "c": "VS"
+  },
+  {
+   "k": 6567063430,
+   "d": "2026-09-24",
+   "n": "Armillaria cepistipes",
+   "lat": 46.007016,
+   "lng": 7.299037,
+   "p": "Valais",
+   "c": "VS"
+  },
+  {
+   "k": 6566531987,
+   "d": "2026-09-25",
+   "n": "Armillaria ostoyae",
+   "lat": 46.212212,
+   "lng": 6.961917,
+   "p": "Vérossaz",
+   "c": "VS"
+  },
+  {
+   "k": 6566743772,
+   "d": "2026-09-25",
+   "n": "Leccinum duriusculum",
+   "lat": 47.005271,
+   "lng": 6.999793,
+   "p": "Neuenburgersee",
+   "c": "NE"
+  },
+  {
+   "k": 6567430369,
+   "d": "2026-09-25",
+   "n": "Armillaria cepistipes",
+   "lat": 46.182286,
+   "lng": 7.010842,
+   "p": "Evionnaz",
+   "c": "VS"
+  },
+  {
+   "k": 6567484993,
+   "d": "2026-09-25",
+   "n": "Laetiporus sulphureus",
+   "lat": 47.028013,
+   "lng": 8.308232,
+   "p": "Kriens",
+   "c": "LU"
+  },
+  {
+   "k": 6566572385,
+   "d": "2026-09-26",
+   "n": "Armillaria mellea",
+   "lat": 46.729733,
+   "lng": 6.455261,
+   "p": "Les Clées",
+   "c": "VD"
+  },
+  {
+   "k": 6566875037,
+   "d": "2026-09-26",
+   "n": "Lactarius deterrimus",
+   "lat": 46.290011,
+   "lng": 7.140439,
+   "p": "Bex",
+   "c": "VD"
+  },
+  {
+   "k": 6566981080,
+   "d": "2026-09-26",
+   "n": "Lactarius salmonicolor",
+   "lat": 47.133428,
+   "lng": 6.894431,
+   "p": "La Ferrière",
+   "c": "BE"
+  },
+  {
+   "k": 6566984991,
+   "d": "2026-09-26",
+   "n": "Boletus edulis",
+   "lat": 46.725927,
+   "lng": 6.756799,
+   "p": "Correvon",
+   "c": "VD"
+  },
+  {
+   "k": 6566995727,
+   "d": "2026-09-26",
+   "n": "Gomphidius glutinosus",
+   "lat": 46.289954,
+   "lng": 7.14036,
+   "p": "Bex",
+   "c": "VD"
+  },
+  {
+   "k": 6567069055,
+   "d": "2026-09-26",
+   "n": "Coprinus comatus",
+   "lat": 47.145186,
+   "lng": 7.87096,
+   "p": "Gondiswil",
+   "c": "BE"
+  },
+  {
+   "k": 6567229867,
+   "d": "2026-09-26",
+   "n": "Armillaria mellea",
+   "lat": 46.72978,
+   "lng": 6.455385,
+   "p": "Les Clées",
+   "c": "VD"
+  },
+  {
+   "k": 6567323792,
+   "d": "2026-09-26",
+   "n": "Craterellus lutescens",
+   "lat": 46.290848,
+   "lng": 7.14115,
+   "p": "Bex",
+   "c": "VD"
+  },
+  {
+   "k": 6567514851,
+   "d": "2026-09-26",
+   "n": "Lactarius salmonicolor",
+   "lat": 47.133475,
+   "lng": 6.894306,
+   "p": "La Ferrière",
+   "c": "BE"
+  },
+  {
+   "k": 6578881744,
+   "d": "2026-09-26",
+   "n": "Lactarius deterrimus",
+   "lat": 46.506908,
+   "lng": 6.987436,
+   "p": "Châtel-Saint-Denis",
+   "c": "FR"
+  },
+  {
+   "k": 6579254405,
+   "d": "2026-09-26",
+   "n": "Craterellus lutescens",
+   "lat": 46.379719,
+   "lng": 7.096091,
+   "p": "Ormont-Dessous",
+   "c": "VD"
+  },
+  {
+   "k": 6579415558,
+   "d": "2026-09-26",
+   "n": "Coprinus comatus",
+   "lat": 47.319552,
+   "lng": 7.107454,
+   "p": "Epiquerez",
+   "c": "JU"
+  },
+  {
+   "k": 6579803322,
+   "d": "2026-09-26",
+   "n": "Lactarius salmonicolor",
+   "lat": 46.506289,
+   "lng": 6.987688,
+   "p": "Châtel-Saint-Denis",
+   "c": "FR"
+  },
+  {
+   "k": 6566909608,
+   "d": "2026-09-27",
+   "n": "Boletus edulis",
+   "lat": 46.338683,
+   "lng": 7.097796,
+   "p": "Ormont-Dessous",
+   "c": "VD"
+  },
+  {
+   "k": 6567141914,
+   "d": "2026-09-27",
+   "n": "Lyophyllum fumosum",
+   "lat": 47.264785,
+   "lng": 8.89913,
+   "p": "Wald",
+   "c": "ZH"
+  },
+  {
+   "k": 6567327505,
+   "d": "2026-09-27",
+   "n": "Lactarius deterrimus",
+   "lat": 47.081553,
+   "lng": 9.26134,
+   "p": "Quarten",
+   "c": "SG"
+  },
+  {
+   "k": 6566473352,
+   "d": "2026-09-28",
+   "n": "Armillaria ostoyae",
+   "lat": 46.31321,
+   "lng": 6.861572,
+   "p": "Vionnaz",
+   "c": "VS"
+  },
+  {
+   "k": 6567185334,
+   "d": "2026-09-28",
+   "n": "Armillaria cepistipes",
+   "lat": 46.055078,
+   "lng": 7.249162,
+   "p": "Bagnes",
+   "c": "VS"
+  },
+  {
+   "k": 6567222605,
+   "d": "2026-09-28",
+   "n": "Imleria badia",
+   "lat": 46.369347,
+   "lng": 8.54283,
+   "p": "Cevio",
+   "c": "TI"
+  },
+  {
+   "k": 6566579573,
+   "d": "2026-09-29",
+   "n": "Boletus edulis",
+   "lat": 46.604406,
+   "lng": 7.900747,
+   "p": "Lauterbrunnen",
+   "c": "BE"
+  },
+  {
+   "k": 6566812492,
+   "d": "2026-09-29",
+   "n": "Coprinus comatus",
+   "lat": 46.821546,
+   "lng": 6.955527,
+   "p": "Payerne",
+   "c": "VD"
+  },
+  {
+   "k": 6566934556,
+   "d": "2026-09-29",
+   "n": "Lactarius salmonicolor",
+   "lat": 46.312614,
+   "lng": 6.852081,
+   "p": "Vionnaz",
+   "c": "VS"
+  },
+  {
+   "k": 6567189650,
+   "d": "2026-09-29",
+   "n": "Coprinus comatus",
+   "lat": 46.821479,
+   "lng": 6.955503,
+   "p": "Payerne",
+   "c": "VD"
+  },
+  {
+   "k": 6567254673,
+   "d": "2026-09-29",
+   "n": "Coprinus comatus",
+   "lat": 46.901159,
+   "lng": 7.416049,
+   "p": "Köniz",
+   "c": "BE"
+  },
+  {
+   "k": 6567435847,
+   "d": "2026-09-29",
+   "n": "Coprinus comatus",
+   "lat": 47.157864,
+   "lng": 8.779397,
+   "p": "Einsiedeln",
+   "c": "SZ"
+  },
+  {
+   "k": 6567521601,
+   "d": "2026-09-29",
+   "n": "Lactarius deterrimus",
+   "lat": 46.313995,
+   "lng": 6.852881,
+   "p": "Vionnaz",
+   "c": "VS"
+  },
+  {
+   "k": 6567533030,
+   "d": "2026-09-29",
+   "n": "Macrolepiota procera",
+   "lat": 47.157245,
+   "lng": 8.782531,
+   "p": "Einsiedeln",
+   "c": "SZ"
+  },
+  {
+   "k": 6579441441,
+   "d": "2026-09-30",
+   "n": "Macrolepiota procera",
+   "lat": 47.036363,
+   "lng": 8.514236,
+   "p": "Arth",
+   "c": "SZ"
+  },
+  {
+   "k": 6579574417,
+   "d": "2026-09-30",
+   "n": "Coprinus comatus",
+   "lat": 47.34492,
+   "lng": 7.149519,
+   "p": "Montenol",
+   "c": "JU"
+  },
+  {
+   "k": 6579698654,
+   "d": "2026-09-30",
+   "n": "Coprinus comatus",
+   "lat": 46.388067,
+   "lng": 9.666397,
+   "p": "Vicosoprano",
+   "c": "GR"
+  },
+  {
+   "k": 6579786655,
+   "d": "2026-09-30",
+   "n": "Macrolepiota procera",
+   "lat": 46.57903,
+   "lng": 7.898388,
+   "p": "Lauterbrunnen",
+   "c": "BE"
+  },
+  {
+   "k": 6578824607,
+   "d": "2026-10-02",
+   "n": "Laetiporus sulphureus",
+   "lat": 47.520512,
+   "lng": 9.431837,
+   "p": "Arbon",
+   "c": "TG"
+  },
+  {
+   "k": 6578936502,
+   "d": "2026-10-03",
+   "n": "Armillaria mellea",
+   "lat": 47.35502,
+   "lng": 8.577855,
+   "p": "Weinegg",
+   "c": "ZH"
+  },
+  {
+   "k": 6579055691,
+   "d": "2026-10-03",
+   "n": "Armillaria mellea",
+   "lat": 47.352937,
+   "lng": 8.583319,
+   "p": "Zollikon",
+   "c": "ZH"
+  },
+  {
+   "k": 6579279749,
+   "d": "2026-10-03",
+   "n": "Coprinus comatus",
+   "lat": 47.267533,
+   "lng": 8.558345,
+   "p": "Horgen-Sihlbrugg Dorf",
+   "c": "ZH"
+  },
+  {
+   "k": 6579444479,
+   "d": "2026-10-03",
+   "n": "Coprinus comatus",
+   "lat": 46.802778,
+   "lng": 6.962569,
+   "p": "Payerne",
+   "c": "VD"
+  },
+  {
+   "k": 6579569839,
+   "d": "2026-10-03",
+   "n": "Coprinus comatus",
+   "lat": 46.806112,
+   "lng": 6.962886,
+   "p": "Payerne",
+   "c": "VD"
+  },
+  {
+   "k": 6579974564,
+   "d": "2026-10-03",
+   "n": "Armillaria mellea",
+   "lat": 47.355004,
+   "lng": 8.577981,
+   "p": "Weinegg",
+   "c": "ZH"
+  },
+  {
+   "k": 6579024397,
+   "d": "2026-10-04",
+   "n": "Armillaria gallica",
+   "lat": 47.443128,
+   "lng": 8.847066,
+   "p": "Turbenthal",
+   "c": "ZH"
+  },
+  {
+   "k": 6579031928,
+   "d": "2026-10-04",
+   "n": "Coprinus comatus",
+   "lat": 46.328453,
+   "lng": 7.265787,
+   "p": "Savièse",
+   "c": "VS"
+  },
+  {
+   "k": 6579049381,
+   "d": "2026-10-04",
+   "n": "Macrolepiota procera",
+   "lat": 46.571581,
+   "lng": 6.679328,
+   "p": "Lausanne",
+   "c": "VD"
+  },
+  {
+   "k": 6579093362,
+   "d": "2026-10-04",
+   "n": "Coprinus comatus",
+   "lat": 47.265301,
+   "lng": 8.553938,
+   "p": "Horgen-Sihlbrugg Dorf",
+   "c": "ZH"
+  },
+  {
+   "k": 6579096393,
+   "d": "2026-10-04",
+   "n": "Laetiporus sulphureus",
+   "lat": 46.532958,
+   "lng": 6.406255,
+   "p": "Yens",
+   "c": "VD"
+  },
+  {
+   "k": 6579291698,
+   "d": "2026-10-04",
+   "n": "Armillaria mellea",
+   "lat": 46.356386,
+   "lng": 6.939049,
+   "p": "Roche",
+   "c": "VD"
+  },
+  {
+   "k": 6579397504,
+   "d": "2026-10-04",
+   "n": "Coprinus comatus",
+   "lat": 47.171188,
+   "lng": 8.653008,
+   "p": "Menzingen",
+   "c": "ZG"
+  },
+  {
+   "k": 6579481881,
+   "d": "2026-10-04",
+   "n": "Russula cyanoxantha",
+   "lat": 47.179583,
+   "lng": 8.639278,
+   "p": "Schönenberg",
+   "c": "ZH"
+  },
+  {
+   "k": 6579522739,
+   "d": "2026-10-04",
+   "n": "Coprinus comatus",
+   "lat": 47.025416,
+   "lng": 7.338213,
+   "p": "Seedorf",
+   "c": "BE"
+  },
+  {
+   "k": 6579705446,
+   "d": "2026-10-04",
+   "n": "Gomphidius glutinosus",
+   "lat": 47.170728,
+   "lng": 8.659538,
+   "p": "Menzingen",
+   "c": "ZG"
+  },
+  {
+   "k": 6579772560,
+   "d": "2026-10-04",
+   "n": "Coprinus comatus",
+   "lat": 46.921172,
+   "lng": 7.417623,
+   "p": "Köniz",
+   "c": "BE"
+  },
+  {
+   "k": 6579835710,
+   "d": "2026-10-04",
+   "n": "Armillaria gallica",
+   "lat": 47.443081,
+   "lng": 8.846987,
+   "p": "Turbenthal",
+   "c": "ZH"
+  },
+  {
+   "k": 6579044421,
+   "d": "2026-10-05",
+   "n": "Agaricus campestris",
+   "lat": 46.686258,
+   "lng": 7.673746,
+   "p": "Spiez",
+   "c": "BE"
+  },
+  {
+   "k": 6579421483,
+   "d": "2026-10-05",
+   "n": "Russula cyanoxantha",
+   "lat": 46.124443,
+   "lng": 7.025669,
+   "p": "Salvan",
+   "c": "VS"
+  },
+  {
+   "k": 6579757572,
+   "d": "2026-10-05",
+   "n": "Russula cyanoxantha",
+   "lat": 46.124572,
+   "lng": 7.02692,
+   "p": "Salvan",
+   "c": "VS"
+  }
+ ],
+ "hotspots": [
+  {
+   "k": 6118454626,
+   "d": "2025-09-17",
+   "n": "Boletus edulis",
+   "lat": 47.32756,
+   "lng": 8.5962,
+   "p": "Küsnacht",
+   "c": "ZH"
+  },
+  {
+   "k": 5082004235,
+   "d": "2024-09-10",
+   "n": "Boletus edulis",
+   "lat": 47.37378,
+   "lng": 8.46478,
+   "p": "Uitikon",
+   "c": "ZH"
+  },
+  {
+   "k": 5082013335,
+   "d": "2024-09-29",
+   "n": "Boletus edulis",
+   "lat": 47.55239,
+   "lng": 8.60109,
+   "p": "Berg am Irchel",
+   "c": "ZH"
+  },
+  {
+   "k": 5082017390,
+   "d": "2024-09-27",
+   "n": "Boletus edulis",
+   "lat": 47.28191,
+   "lng": 8.6613,
+   "p": "Meilen",
+   "c": "ZH"
+  },
+  {
+   "k": 6118441438,
+   "d": "2024-09-25",
+   "n": "Boletus edulis",
+   "lat": 47.50868,
+   "lng": 8.46739,
+   "p": "Neerach",
+   "c": "ZH"
+  },
+  {
+   "k": 4952348406,
+   "d": "2024-10-02",
+   "n": "Boletus edulis",
+   "lat": 47.524062,
+   "lng": 8.265581,
+   "p": "Würenlingen",
+   "c": "AG"
+  },
+  {
+   "k": 5082009445,
+   "d": "2024-10-02",
+   "n": "Boletus edulis",
+   "lat": 47.51028,
+   "lng": 8.26829,
+   "p": "Untersiggenthal",
+   "c": "AG"
+  },
+  {
+   "k": 5082014466,
+   "d": "2024-10-09",
+   "n": "Boletus edulis",
+   "lat": 47.32688,
+   "lng": 8.66233,
+   "p": "Maur",
+   "c": "ZH"
+  },
+  {
+   "k": 6118447384,
+   "d": "2025-07-23",
+   "n": "Cantharellus cibarius",
+   "lat": 47.46482,
+   "lng": 8.3339,
+   "p": "Wettingen",
+   "c": "AG"
+  },
+  {
+   "k": 4909291235,
+   "d": "2024-07-10",
+   "n": "Cantharellus cibarius",
+   "lat": 47.440338,
+   "lng": 8.606742,
+   "p": "Dietlikon",
+   "c": "ZH"
+  },
+  {
+   "k": 4940827603,
+   "d": "2024-07-23",
+   "n": "Cantharellus cibarius",
+   "lat": 47.19198,
+   "lng": 8.65925,
+   "p": "Schönenberg",
+   "c": "ZH"
+  },
+  {
+   "k": 5867816673,
+   "d": "2024-10-20",
+   "n": "Cantharellus cibarius",
+   "lat": 47.381154,
+   "lng": 8.27969,
+   "p": "Aargau",
+   "c": "AG"
+  },
+  {
+   "k": 6118446408,
+   "d": "2024-10-11",
+   "n": "Cantharellus cibarius",
+   "lat": 47.50925,
+   "lng": 8.40102,
+   "p": "Schleinikon",
+   "c": "ZH"
+  },
+  {
+   "k": 6118470593,
+   "d": "2024-10-11",
+   "n": "Cantharellus cibarius",
+   "lat": 47.28589,
+   "lng": 8.19871,
+   "p": "Birrwil",
+   "c": "AG"
+  },
+  {
+   "k": 4940782938,
+   "d": "2023-07-25",
+   "n": "Cantharellus cibarius",
+   "lat": 47.41749,
+   "lng": 8.59815,
+   "p": "Wallisellen",
+   "c": "ZH"
+  },
+  {
+   "k": 4940822321,
+   "d": "2023-07-30",
+   "n": "Cantharellus cibarius",
+   "lat": 47.24046,
+   "lng": 8.2641,
+   "p": "Altwis",
+   "c": "LU"
+  },
+  {
+   "k": 6519032284,
+   "d": "2026-09-01",
+   "n": "Macrolepiota procera",
+   "lat": 47.349003,
+   "lng": 8.587313,
+   "p": "Zollikon",
+   "c": "ZH"
+  },
+  {
+   "k": 6552837122,
+   "d": "2026-09-14",
+   "n": "Macrolepiota procera",
+   "lat": 47.135989,
+   "lng": 8.423217,
+   "p": "Risch",
+   "c": "ZG"
+  },
+  {
+   "k": 5282323649,
+   "d": "2025-08-03",
+   "n": "Macrolepiota procera",
+   "lat": 47.497292,
+   "lng": 8.649438,
+   "p": "Oberembrach",
+   "c": "ZH"
+  },
+  {
+   "k": 5838312764,
+   "d": "2025-09-28",
+   "n": "Macrolepiota procera",
+   "lat": 47.425438,
+   "lng": 8.42918,
+   "p": "Weiningen",
+   "c": "ZH"
+  },
+  {
+   "k": 5868354444,
+   "d": "2025-09-27",
+   "n": "Macrolepiota procera",
+   "lat": 47.378819,
+   "lng": 8.919648,
+   "p": "Bauma",
+   "c": "ZH"
+  },
+  {
+   "k": 6118424449,
+   "d": "2025-09-18",
+   "n": "Macrolepiota procera",
+   "lat": 47.28119,
+   "lng": 8.72738,
+   "p": "Oetwil am See",
+   "c": "ZH"
+  },
+  {
+   "k": 5844015967,
+   "d": "2025-10-11",
+   "n": "Macrolepiota procera",
+   "lat": 47.528408,
+   "lng": 8.446988,
+   "p": "Bachs",
+   "c": "ZH"
+  },
+  {
+   "k": 5844125051,
+   "d": "2025-10-11",
+   "n": "Macrolepiota procera",
+   "lat": 47.52827,
+   "lng": 8.446867,
+   "p": "Bachs",
+   "c": "ZH"
+  },
+  {
+   "k": 6118426149,
+   "d": "2025-09-18",
+   "n": "Craterellus cornucopioides",
+   "lat": 47.55364,
+   "lng": 8.46826,
+   "p": "Stadel",
+   "c": "ZH"
+  },
+  {
+   "k": 6118433773,
+   "d": "2025-09-17",
+   "n": "Craterellus cornucopioides",
+   "lat": 47.32756,
+   "lng": 8.5962,
+   "p": "Küsnacht",
+   "c": "ZH"
+  },
+  {
+   "k": 5890389182,
+   "d": "2025-10-29",
+   "n": "Craterellus cornucopioides",
+   "lat": 47.613752,
+   "lng": 8.670593,
+   "p": "Kleinandelfingen",
+   "c": "ZH"
+  },
+  {
+   "k": 6118446547,
+   "d": "2025-10-08",
+   "n": "Craterellus cornucopioides",
+   "lat": 47.1905,
+   "lng": 8.79118,
+   "p": "Freienbach",
+   "c": "SZ"
+  },
+  {
+   "k": 6118446814,
+   "d": "2025-10-12",
+   "n": "Craterellus cornucopioides",
+   "lat": 47.28191,
+   "lng": 8.6613,
+   "p": "Meilen",
+   "c": "ZH"
+  },
+  {
+   "k": 6118465850,
+   "d": "2025-10-23",
+   "n": "Craterellus cornucopioides",
+   "lat": 47.28324,
+   "lng": 8.52914,
+   "p": "Langnau am Albis",
+   "c": "ZH"
+  },
+  {
+   "k": 6118469767,
+   "d": "2025-10-29",
+   "n": "Craterellus cornucopioides",
+   "lat": 47.59861,
+   "lng": 8.46913,
+   "p": "Wasterkingen",
+   "c": "ZH"
+  },
+  {
+   "k": 6118437055,
+   "d": "2025-11-01",
+   "n": "Craterellus cornucopioides",
+   "lat": 47.32756,
+   "lng": 8.5962,
+   "p": "Küsnacht",
+   "c": "ZH"
+  },
+  {
+   "k": 6118474864,
+   "d": "2025-08-16",
+   "n": "Hydnum repandum",
+   "lat": 47.19198,
+   "lng": 8.65925,
+   "p": "Schönenberg",
+   "c": "ZH"
+  },
+  {
+   "k": 5837869577,
+   "d": "2025-09-28",
+   "n": "Hydnum repandum",
+   "lat": 47.426036,
+   "lng": 8.427579,
+   "p": "Weiningen",
+   "c": "ZH"
+  },
+  {
+   "k": 6118444038,
+   "d": "2025-09-10",
+   "n": "Hydnum repandum",
+   "lat": 47.28191,
+   "lng": 8.6613,
+   "p": "Meilen",
+   "c": "ZH"
+  },
+  {
+   "k": 6118475346,
+   "d": "2025-09-18",
+   "n": "Hydnum repandum",
+   "lat": 47.55304,
+   "lng": 8.53468,
+   "p": "Bülach",
+   "c": "ZH"
+  },
+  {
+   "k": 6118427386,
+   "d": "2025-10-28",
+   "n": "Hydnum repandum",
+   "lat": 47.28324,
+   "lng": 8.52914,
+   "p": "Langnau am Albis",
+   "c": "ZH"
+  },
+  {
+   "k": 5082011299,
+   "d": "2024-09-25",
+   "n": "Hydnum repandum",
+   "lat": 47.28191,
+   "lng": 8.6613,
+   "p": "Meilen",
+   "c": "ZH"
+  },
+  {
+   "k": 6118472480,
+   "d": "2025-08-09",
+   "n": "Imleria badia",
+   "lat": 47.37378,
+   "lng": 8.46478,
+   "p": "Uitikon",
+   "c": "ZH"
+  },
+  {
+   "k": 5830373263,
+   "d": "2025-09-19",
+   "n": "Imleria badia",
+   "lat": 47.527255,
+   "lng": 8.450205,
+   "p": "Bachs",
+   "c": "ZH"
+  },
+  {
+   "k": 5830428514,
+   "d": "2025-09-20",
+   "n": "Imleria badia",
+   "lat": 47.177293,
+   "lng": 8.75906,
+   "p": "Feusisberg",
+   "c": "SZ"
+  },
+  {
+   "k": 5830585191,
+   "d": "2025-09-19",
+   "n": "Imleria badia",
+   "lat": 47.527313,
+   "lng": 8.450394,
+   "p": "Bachs",
+   "c": "ZH"
+  },
+  {
+   "k": 4952498706,
+   "d": "2024-09-29",
+   "n": "Imleria badia",
+   "lat": 47.506209,
+   "lng": 8.871666,
+   "p": "Elgg",
+   "c": "ZH"
+  },
+  {
+   "k": 4954744291,
+   "d": "2024-10-11",
+   "n": "Imleria badia",
+   "lat": 47.51748,
+   "lng": 8.736166,
+   "p": "Winterthur",
+   "c": "ZH"
+  },
+  {
+   "k": 4976325448,
+   "d": "2024-10-24",
+   "n": "Imleria badia",
+   "lat": 47.427958,
+   "lng": 8.471184,
+   "p": "Regensdorf",
+   "c": "ZH"
+  },
+  {
+   "k": 4980534347,
+   "d": "2024-10-24",
+   "n": "Imleria badia",
+   "lat": 47.433275,
+   "lng": 8.472698,
+   "p": "Regensdorf",
+   "c": "ZH"
+  },
+  {
+   "k": 6118468746,
+   "d": "2025-10-12",
+   "n": "Lepista nuda",
+   "lat": 47.28191,
+   "lng": 8.6613,
+   "p": "Meilen",
+   "c": "ZH"
+  },
+  {
+   "k": 6118470064,
+   "d": "2025-10-29",
+   "n": "Lepista nuda",
+   "lat": 47.32991,
+   "lng": 8.33163,
+   "p": "Bünzen",
+   "c": "AG"
+  },
+  {
+   "k": 6118420698,
+   "d": "2025-11-01",
+   "n": "Lepista nuda",
+   "lat": 47.32756,
+   "lng": 8.5962,
+   "p": "Küsnacht",
+   "c": "ZH"
+  },
+  {
+   "k": 5082012265,
+   "d": "2024-10-10",
+   "n": "Lepista nuda",
+   "lat": 47.50925,
+   "lng": 8.40102,
+   "p": "Schleinikon",
+   "c": "ZH"
+  },
+  {
+   "k": 6118426299,
+   "d": "2024-10-23",
+   "n": "Lepista nuda",
+   "lat": 47.32938,
+   "lng": 8.39778,
+   "p": "Unterlunkhofen",
+   "c": "AG"
+  },
+  {
+   "k": 6118442258,
+   "d": "2024-10-25",
+   "n": "Lepista nuda",
+   "lat": 47.37317,
+   "lng": 8.53098,
+   "p": "Zürich-Enge",
+   "c": "ZH"
+  },
+  {
+   "k": 6118445621,
+   "d": "2024-10-24",
+   "n": "Lepista nuda",
+   "lat": 47.3304,
+   "lng": 8.26549,
+   "p": "Büttikon",
+   "c": "AG"
+  },
+  {
+   "k": 6118452056,
+   "d": "2024-10-11",
+   "n": "Lepista nuda",
+   "lat": 47.23997,
+   "lng": 8.33013,
+   "p": "Beinwil",
+   "c": "AG"
+  },
+  {
+   "k": 6499955760,
+   "d": "2026-08-22",
+   "n": "Laetiporus sulphureus",
+   "lat": 47.356655,
+   "lng": 8.574755,
+   "p": "Zürich-Weinegg",
+   "c": "ZH"
+  },
+  {
+   "k": 6500105501,
+   "d": "2026-08-21",
+   "n": "Laetiporus sulphureus",
+   "lat": 47.4901,
+   "lng": 8.725466,
+   "p": "Winterthur",
+   "c": "ZH"
+  },
+  {
+   "k": 6518413023,
+   "d": "2026-09-07",
+   "n": "Laetiporus sulphureus",
+   "lat": 47.288119,
+   "lng": 8.53783,
+   "p": "Langnau am Albis",
+   "c": "ZH"
+  },
+  {
+   "k": 6519881971,
+   "d": "2026-09-05",
+   "n": "Laetiporus sulphureus",
+   "lat": 47.518448,
+   "lng": 8.240549,
+   "p": "Untersiggenthal",
+   "c": "AG"
+  },
+  {
+   "k": 6551042440,
+   "d": "2026-09-17",
+   "n": "Laetiporus sulphureus",
+   "lat": 47.220395,
+   "lng": 8.466442,
+   "p": "Knonau",
+   "c": "ZH"
+  },
+  {
+   "k": 5830655345,
+   "d": "2025-09-20",
+   "n": "Coprinus comatus",
+   "lat": 47.474358,
+   "lng": 8.276079,
+   "p": "Baden",
+   "c": "AG"
+  },
+  {
+   "k": 5830696157,
+   "d": "2025-09-18",
+   "n": "Coprinus comatus",
+   "lat": 47.392392,
+   "lng": 8.563079,
+   "p": "Zürich-Fluntern",
+   "c": "ZH"
+  },
+  {
+   "k": 5830984095,
+   "d": "2025-09-21",
+   "n": "Coprinus comatus",
+   "lat": 47.402404,
+   "lng": 8.701896,
+   "p": "Volketswil",
+   "c": "ZH"
+  },
+  {
+   "k": 5837716069,
+   "d": "2025-09-28",
+   "n": "Coprinus comatus",
+   "lat": 47.492489,
+   "lng": 8.774783,
+   "p": "Winterthur",
+   "c": "ZH"
+  },
+  {
+   "k": 5838003219,
+   "d": "2025-09-28",
+   "n": "Coprinus comatus",
+   "lat": 47.267108,
+   "lng": 8.64912,
+   "p": "Meilen",
+   "c": "ZH"
+  },
+  {
+   "k": 6413734878,
+   "d": "2025-08-28",
+   "n": "Sparassis crispa",
+   "lat": 47.385594,
+   "lng": 8.728507,
+   "p": "Uster",
+   "c": "ZH"
+  },
+  {
+   "k": 5843945685,
+   "d": "2025-10-11",
+   "n": "Sparassis crispa",
+   "lat": 47.527305,
+   "lng": 8.450055,
+   "p": "Bachs",
+   "c": "ZH"
+  },
+  {
+   "k": 5867786549,
+   "d": "2025-10-17",
+   "n": "Sparassis crispa",
+   "lat": 47.531658,
+   "lng": 8.453658,
+   "p": "Stadel",
+   "c": "ZH"
+  },
+  {
+   "k": 4431084336,
+   "d": "2023-10-15",
+   "n": "Sparassis crispa",
+   "lat": 47.497266,
+   "lng": 8.8451,
+   "p": "Elgg",
+   "c": "ZH"
+  },
+  {
+   "k": 3923424497,
+   "d": "2022-10-02",
+   "n": "Sparassis crispa",
+   "lat": 47.497417,
+   "lng": 8.887188,
+   "p": "Elgg",
+   "c": "ZH"
+  },
+  {
+   "k": 5062489914,
+   "d": "2020-09-30",
+   "n": "Sparassis crispa",
+   "lat": 47.281317,
+   "lng": 8.540969,
+   "p": "Langnau am Albis",
+   "c": "ZH"
+  },
+  {
+   "k": 5828420537,
+   "d": "2025-09-11",
+   "n": "Boletus edulis",
+   "lat": 46.053414,
+   "lng": 7.23,
+   "p": "Bagnes",
+   "c": "VS"
+  },
+  {
+   "k": 5828529899,
+   "d": "2025-09-14",
+   "n": "Boletus edulis",
+   "lat": 47.455822,
+   "lng": 7.49847,
+   "p": "Blauen",
+   "c": "BL"
+  },
+  {
+   "k": 5828914501,
+   "d": "2025-09-16",
+   "n": "Boletus edulis",
+   "lat": 46.964177,
+   "lng": 6.804805,
+   "p": "Boudry",
+   "c": "NE"
+  },
+  {
+   "k": 5830941436,
+   "d": "2025-09-17",
+   "n": "Boletus edulis",
+   "lat": 47.005581,
+   "lng": 8.258862,
+   "p": "Kriens",
+   "c": "LU"
+  },
+  {
+   "k": 5831040936,
+   "d": "2025-09-18",
+   "n": "Boletus edulis",
+   "lat": 46.609298,
+   "lng": 7.07988,
+   "p": "Bulle",
+   "c": "FR"
+  },
+  {
+   "k": 5837647944,
+   "d": "2025-09-15",
+   "n": "Boletus edulis",
+   "lat": 46.049453,
+   "lng": 7.069214,
+   "p": "Bovernier",
+   "c": "VS"
+  },
+  {
+   "k": 5838016020,
+   "d": "2025-09-30",
+   "n": "Boletus edulis",
+   "lat": 46.040726,
+   "lng": 7.259195,
+   "p": "Lourtier",
+   "c": "VS"
+  },
+  {
+   "k": 5838080197,
+   "d": "2025-09-14",
+   "n": "Boletus edulis",
+   "lat": 46.66744,
+   "lng": 8.131722,
+   "p": "Grindelwald",
+   "c": "BE"
+  },
+  {
+   "k": 5827404876,
+   "d": "2025-09-14",
+   "n": "Boletus reticulatus",
+   "lat": 46.634391,
+   "lng": 6.4585,
+   "p": "La Chaux",
+   "c": "VD"
+  },
+  {
+   "k": 5828138572,
+   "d": "2025-09-16",
+   "n": "Boletus reticulatus",
+   "lat": 46.96417,
+   "lng": 6.804803,
+   "p": "Boudry",
+   "c": "NE"
+  },
+  {
+   "k": 5828194329,
+   "d": "2025-09-14",
+   "n": "Boletus reticulatus",
+   "lat": 46.643636,
+   "lng": 6.430961,
+   "p": "Cuarnens",
+   "c": "VD"
+  },
+  {
+   "k": 5828349569,
+   "d": "2025-09-14",
+   "n": "Boletus reticulatus",
+   "lat": 46.641143,
+   "lng": 6.430416,
+   "p": "Cuarnens",
+   "c": "VD"
+  },
+  {
+   "k": 5828507092,
+   "d": "2025-09-16",
+   "n": "Boletus reticulatus",
+   "lat": 46.964431,
+   "lng": 6.807743,
+   "p": "Boudry",
+   "c": "NE"
+  },
+  {
+   "k": 5828826717,
+   "d": "2025-09-16",
+   "n": "Boletus reticulatus",
+   "lat": 46.965706,
+   "lng": 6.805291,
+   "p": "Rochefort",
+   "c": "NE"
+  },
+  {
+   "k": 5830390906,
+   "d": "2025-09-18",
+   "n": "Boletus reticulatus",
+   "lat": 46.612326,
+   "lng": 7.080763,
+   "p": "Bulle",
+   "c": "FR"
+  },
+  {
+   "k": 5830498650,
+   "d": "2025-09-21",
+   "n": "Boletus reticulatus",
+   "lat": 47.032718,
+   "lng": 6.880384,
+   "p": "Switzerland",
+   "c": "NE"
+  },
+  {
+   "k": 5828436067,
+   "d": "2025-09-14",
+   "n": "Imleria badia",
+   "lat": 45.873272,
+   "lng": 9.002738,
+   "p": "Castel San Pietro",
+   "c": "TI"
+  },
+  {
+   "k": 5830471955,
+   "d": "2025-09-18",
+   "n": "Imleria badia",
+   "lat": 46.612633,
+   "lng": 7.078077,
+   "p": "Bulle",
+   "c": "FR"
+  },
+  {
+   "k": 5830746873,
+   "d": "2025-09-20",
+   "n": "Imleria badia",
+   "lat": 46.92066,
+   "lng": 7.844044,
+   "p": "Trubschachen",
+   "c": "BE"
+  },
+  {
+   "k": 5830904993,
+   "d": "2025-09-17",
+   "n": "Imleria badia",
+   "lat": 47.449974,
+   "lng": 7.670377,
+   "p": "Hochwald",
+   "c": "SO"
+  },
+  {
+   "k": 5837821536,
+   "d": "2025-09-29",
+   "n": "Imleria badia",
+   "lat": 46.339927,
+   "lng": 6.994213,
+   "p": "Leysin",
+   "c": "VD"
+  },
+  {
+   "k": 5828240414,
+   "d": "2025-09-12",
+   "n": "Cantharellus cibarius",
+   "lat": 46.578097,
+   "lng": 7.896863,
+   "p": "Lauterbrunnen",
+   "c": "BE"
+  },
+  {
+   "k": 5828269048,
+   "d": "2025-09-13",
+   "n": "Cantharellus amethysteus",
+   "lat": 46.634052,
+   "lng": 6.651948,
+   "p": "Echallens",
+   "c": "VD"
+  },
+  {
+   "k": 5830544870,
+   "d": "2025-09-18",
+   "n": "Craterellus ianthinoxanthus",
+   "lat": 46.612333,
+   "lng": 7.08077,
+   "p": "Bulle",
+   "c": "FR"
+  },
+  {
+   "k": 5830709665,
+   "d": "2025-09-21",
+   "n": "Cantharellus cibarius",
+   "lat": 47.486913,
+   "lng": 7.437706,
+   "p": "Rodersdorf",
+   "c": "SO"
+  },
+  {
+   "k": 5838116101,
+   "d": "2025-09-30",
+   "n": "Cantharellus cibarius",
+   "lat": 46.510017,
+   "lng": 7.331511,
+   "p": "Saanen",
+   "c": "BE"
+  },
+  {
+   "k": 5844133308,
+   "d": "2025-09-14",
+   "n": "Cantharellus cibarius",
+   "lat": 46.016819,
+   "lng": 7.119186,
+   "p": "Orsières",
+   "c": "VS"
+  },
+  {
+   "k": 6118420946,
+   "d": "2025-09-20",
+   "n": "Craterellus melanoxeros",
+   "lat": 47.19198,
+   "lng": 8.65925,
+   "p": "Schönenberg",
+   "c": "ZH"
+  },
+  {
+   "k": 6118422346,
+   "d": "2025-09-28",
+   "n": "Cantharellus cibarius",
+   "lat": 46.77734,
+   "lng": 9.37016,
+   "p": "Rhäzüns",
+   "c": "GR"
+  },
+  {
+   "k": 5827465134,
+   "d": "2025-09-16",
+   "n": "Craterellus cornucopioides",
+   "lat": 46.966998,
+   "lng": 6.810644,
+   "p": "Rochefort",
+   "c": "NE"
+  },
+  {
+   "k": 5830518980,
+   "d": "2025-09-21",
+   "n": "Craterellus cornucopioides",
+   "lat": 47.486259,
+   "lng": 7.436876,
+   "p": "Rodersdorf",
+   "c": "SO"
+  },
+  {
+   "k": 5838298050,
+   "d": "2025-09-27",
+   "n": "Craterellus cornucopioides var. flavicans",
+   "lat": 46.99293,
+   "lng": 6.895299,
+   "p": "Peseux",
+   "c": "NE"
+  },
+  {
+   "k": 6118420956,
+   "d": "2025-09-18",
+   "n": "Craterellus cornucopioides",
+   "lat": 46.61319,
+   "lng": 7.07965,
+   "p": "Bulle",
+   "c": "FR"
+  },
+  {
+   "k": 6118422617,
+   "d": "2025-09-27",
+   "n": "Craterellus cornucopioides",
+   "lat": 46.69976,
+   "lng": 6.49068,
+   "p": "Bofflens",
+   "c": "VD"
+  },
+  {
+   "k": 6118427133,
+   "d": "2025-09-24",
+   "n": "Craterellus cornucopioides",
+   "lat": 46.42355,
+   "lng": 8.96722,
+   "p": "Ludiano",
+   "c": "TI"
+  },
+  {
+   "k": 5840535427,
+   "d": "2025-09-30",
+   "n": "Craterellus tubaeformis",
+   "lat": 47.006784,
+   "lng": 7.533727,
+   "p": "Mattstetten",
+   "c": "BE"
+  },
+  {
+   "k": 5867844219,
+   "d": "2025-09-30",
+   "n": "Craterellus tubaeformis",
+   "lat": 47.006784,
+   "lng": 7.533727,
+   "p": "Mattstetten",
+   "c": "BE"
+  },
+  {
+   "k": 6118421550,
+   "d": "2025-09-24",
+   "n": "Craterellus tubaeformis",
+   "lat": 47.10838,
+   "lng": 7.60331,
+   "p": "Ersigen",
+   "c": "BE"
+  },
+  {
+   "k": 6118427925,
+   "d": "2025-09-30",
+   "n": "Craterellus tubaeformis",
+   "lat": 46.5663,
+   "lng": 6.68868,
+   "p": "Lausanne",
+   "c": "VD"
+  },
+  {
+   "k": 6118437549,
+   "d": "2025-09-29",
+   "n": "Craterellus tubaeformis",
+   "lat": 46.47244,
+   "lng": 8.64304,
+   "p": "Lavizzara",
+   "c": "TI"
+  },
+  {
+   "k": 6118444748,
+   "d": "2025-09-22",
+   "n": "Craterellus tubaeformis",
+   "lat": 46.97319,
+   "lng": 7.73432,
+   "p": "Lauperswil",
+   "c": "BE"
+  },
+  {
+   "k": 6118446049,
+   "d": "2025-09-14",
+   "n": "Craterellus tubaeformis",
+   "lat": 47.35951,
+   "lng": 9.52367,
+   "p": "Altstätten",
+   "c": "SG"
+  },
+  {
+   "k": 6118447130,
+   "d": "2025-09-23",
+   "n": "Craterellus tubaeformis",
+   "lat": 46.9278,
+   "lng": 7.86537,
+   "p": "Trubschachen",
+   "c": "BE"
+  },
+  {
+   "k": 6118424985,
+   "d": "2025-09-20",
+   "n": "Craterellus lutescens",
+   "lat": 46.34284,
+   "lng": 6.95155,
+   "p": "Yvorne",
+   "c": "VD"
+  },
+  {
+   "k": 6118430848,
+   "d": "2025-09-20",
+   "n": "Craterellus lutescens",
+   "lat": 46.34284,
+   "lng": 6.95155,
+   "p": "Yvorne",
+   "c": "VD"
+  },
+  {
+   "k": 6118436744,
+   "d": "2025-09-28",
+   "n": "Craterellus lutescens",
+   "lat": 46.34385,
+   "lng": 7.53606,
+   "p": "Mollens",
+   "c": "VS"
+  },
+  {
+   "k": 6320139590,
+   "d": "2025-09-13",
+   "n": "Craterellus lutescens",
+   "lat": 46.762675,
+   "lng": 10.24887,
+   "p": "Tarasp",
+   "c": "GR"
+  },
+  {
+   "k": 5844180066,
+   "d": "2025-10-05",
+   "n": "Craterellus lutescens",
+   "lat": 46.531397,
+   "lng": 6.671297,
+   "p": "Lausanne",
+   "c": "VD"
+  },
+  {
+   "k": 5867845379,
+   "d": "2025-10-16",
+   "n": "Craterellus lutescens",
+   "lat": 46.296526,
+   "lng": 7.627351,
+   "p": "Leuk",
+   "c": "VS"
+  },
+  {
+   "k": 6118421796,
+   "d": "2025-10-31",
+   "n": "Craterellus lutescens",
+   "lat": 46.5187,
+   "lng": 6.36353,
+   "p": "Saint-Livres",
+   "c": "VD"
+  },
+  {
+   "k": 6118422064,
+   "d": "2025-10-16",
+   "n": "Craterellus lutescens",
+   "lat": 46.29879,
+   "lng": 7.60087,
+   "p": "Leuk",
+   "c": "VS"
+  },
+  {
+   "k": 5920195852,
+   "d": "2025-09-28",
+   "n": "Hydnum repandum",
+   "lat": 46.211658,
+   "lng": 5.994719,
+   "p": "Dardagny",
+   "c": "GE"
+  },
+  {
+   "k": 6118425562,
+   "d": "2025-09-13",
+   "n": "Hydnum repandum",
+   "lat": 47.31797,
+   "lng": 9.32358,
+   "p": "Gonten",
+   "c": "AI"
+  },
+  {
+   "k": 6118428747,
+   "d": "2025-09-20",
+   "n": "Hydnum repandum",
+   "lat": 46.47242,
+   "lng": 6.23424,
+   "p": "Bassins",
+   "c": "VD"
+  },
+  {
+   "k": 6118431222,
+   "d": "2025-09-14",
+   "n": "Hydnum repandum",
+   "lat": 47.15308,
+   "lng": 7.14195,
+   "p": "Nods",
+   "c": "BE"
+  },
+  {
+   "k": 6118432739,
+   "d": "2025-09-25",
+   "n": "Hydnum repandum",
+   "lat": 46.51807,
+   "lng": 6.29839,
+   "p": "Gimel",
+   "c": "VD"
+  },
+  {
+   "k": 6118441865,
+   "d": "2025-09-10",
+   "n": "Hydnum repandum",
+   "lat": 46.65869,
+   "lng": 7.34065,
+   "p": "Plaffeien",
+   "c": "FR"
+  },
+  {
+   "k": 6118442105,
+   "d": "2025-09-13",
+   "n": "Hydnum repandum",
+   "lat": 47.31797,
+   "lng": 9.32358,
+   "p": "Gonten",
+   "c": "AI"
+  },
+  {
+   "k": 5827545257,
+   "d": "2025-09-14",
+   "n": "Macrolepiota procera",
+   "lat": 45.88221,
+   "lng": 8.988149,
+   "p": "Mendrisio",
+   "c": "TI"
+  },
+  {
+   "k": 5827674178,
+   "d": "2025-09-14",
+   "n": "Macrolepiota procera",
+   "lat": 47.455302,
+   "lng": 7.499457,
+   "p": "Blauen",
+   "c": "BL"
+  },
+  {
+   "k": 5827827308,
+   "d": "2025-09-10",
+   "n": "Macrolepiota procera",
+   "lat": 46.921791,
+   "lng": 6.768659,
+   "p": "Gorgier",
+   "c": "NE"
+  },
+  {
+   "k": 5828023279,
+   "d": "2025-09-10",
+   "n": "Macrolepiota procera",
+   "lat": 46.611324,
+   "lng": 7.931188,
+   "p": "Lauterbrunnen",
+   "c": "BE"
+  },
+  {
+   "k": 5828085596,
+   "d": "2025-09-10",
+   "n": "Macrolepiota procera",
+   "lat": 46.647268,
+   "lng": 7.382416,
+   "p": "Oberwil im Simmental",
+   "c": "BE"
+  },
+  {
+   "k": 5828090352,
+   "d": "2025-09-13",
+   "n": "Macrolepiota procera",
+   "lat": 46.731013,
+   "lng": 7.154136,
+   "p": "Treyvaux",
+   "c": "FR"
+  },
+  {
+   "k": 5828288631,
+   "d": "2025-09-12",
+   "n": "Macrolepiota procera",
+   "lat": 46.785581,
+   "lng": 9.441281,
+   "p": "Scheid",
+   "c": "GR"
+  },
+  {
+   "k": 5828440037,
+   "d": "2025-09-16",
+   "n": "Macrolepiota procera",
+   "lat": 46.088795,
+   "lng": 7.109567,
+   "p": "Bovernier",
+   "c": "VS"
+  },
+  {
+   "k": 6118419439,
+   "d": "2025-09-27",
+   "n": "Lepista nuda",
+   "lat": 47.31797,
+   "lng": 9.32358,
+   "p": "Gonten",
+   "c": "AI"
+  },
+  {
+   "k": 6118420369,
+   "d": "2025-09-20",
+   "n": "Lepista nuda",
+   "lat": 46.61364,
+   "lng": 7.27546,
+   "p": "Jaun",
+   "c": "FR"
+  },
+  {
+   "k": 6118425611,
+   "d": "2025-09-26",
+   "n": "Lepista nuda",
+   "lat": 46.9278,
+   "lng": 7.86537,
+   "p": "Trubschachen",
+   "c": "BE"
+  },
+  {
+   "k": 6118430613,
+   "d": "2025-09-28",
+   "n": "Lepista nuda",
+   "lat": 47.15335,
+   "lng": 7.60345,
+   "p": "Koppigen",
+   "c": "BE"
+  },
+  {
+   "k": 6118436470,
+   "d": "2025-09-24",
+   "n": "Lepista nuda",
+   "lat": 46.65851,
+   "lng": 7.66727,
+   "p": "Wimmis",
+   "c": "BE"
+  },
+  {
+   "k": 6118447997,
+   "d": "2025-09-25",
+   "n": "Lepista nuda",
+   "lat": 46.29891,
+   "lng": 7.47109,
+   "p": "Lens",
+   "c": "VS"
+  },
+  {
+   "k": 6118452964,
+   "d": "2025-09-19",
+   "n": "Lepista nuda",
+   "lat": 47.28839,
+   "lng": 7.47167,
+   "p": "Corcelles",
+   "c": "BE"
+  },
+  {
+   "k": 6118453246,
+   "d": "2025-09-17",
+   "n": "Lepista nuda",
+   "lat": 47.28839,
+   "lng": 7.47167,
+   "p": "Corcelles",
+   "c": "BE"
+  },
+  {
+   "k": 5828079985,
+   "d": "2025-09-16",
+   "n": "Sparassis crispa",
+   "lat": 46.964556,
+   "lng": 6.80781,
+   "p": "Boudry",
+   "c": "NE"
+  },
+  {
+   "k": 5838286454,
+   "d": "2025-09-28",
+   "n": "Sparassis crispa",
+   "lat": 46.484073,
+   "lng": 6.354393,
+   "p": "Bougy-Villars",
+   "c": "VD"
+  },
+  {
+   "k": 5839883151,
+   "d": "2025-10-01",
+   "n": "Sparassis crispa",
+   "lat": 46.972526,
+   "lng": 6.840453,
+   "p": "Bôle",
+   "c": "NE"
+  },
+  {
+   "k": 5827619916,
+   "d": "2025-09-13",
+   "n": "Coprinus comatus",
+   "lat": 46.568543,
+   "lng": 6.588614,
+   "p": "Crissier",
+   "c": "VD"
+  },
+  {
+   "k": 5827720086,
+   "d": "2025-09-14",
+   "n": "Coprinus comatus",
+   "lat": 47.453006,
+   "lng": 7.505126,
+   "p": "Blauen",
+   "c": "BL"
+  },
+  {
+   "k": 5827765382,
+   "d": "2025-09-13",
+   "n": "Coprinus comatus",
+   "lat": 46.637305,
+   "lng": 6.646614,
+   "p": "Echallens",
+   "c": "VD"
+  },
+  {
+   "k": 5827788320,
+   "d": "2025-09-14",
+   "n": "Coprinus comatus",
+   "lat": 46.946925,
+   "lng": 9.050014,
+   "p": "Luchsingen",
+   "c": "GL"
+  },
+  {
+   "k": 5828103753,
+   "d": "2025-09-14",
+   "n": "Coprinus comatus",
+   "lat": 47.413313,
+   "lng": 7.694279,
+   "p": "Switzerland",
+   "c": "SO"
+  },
+  {
+   "k": 5830486255,
+   "d": "2025-09-23",
+   "n": "Coprinus comatus",
+   "lat": 46.495235,
+   "lng": 7.706239,
+   "p": "Kandersteg",
+   "c": "BE"
+  },
+  {
+   "k": 5830673457,
+   "d": "2025-09-17",
+   "n": "Coprinus comatus",
+   "lat": 46.737808,
+   "lng": 9.523483,
+   "p": "Vaz/Obervaz",
+   "c": "GR"
+  },
+  {
+   "k": 5828182334,
+   "d": "2025-09-11",
+   "n": "Russula cyanoxantha",
+   "lat": 46.107388,
+   "lng": 8.764312,
+   "p": "Caviano",
+   "c": "TI"
+  },
+  {
+   "k": 5830480576,
+   "d": "2025-09-19",
+   "n": "Russula cyanoxantha",
+   "lat": 47.52818,
+   "lng": 8.449722,
+   "p": "Bachs",
+   "c": "ZH"
+  },
+  {
+   "k": 5830647303,
+   "d": "2025-09-19",
+   "n": "Russula cyanoxantha",
+   "lat": 47.526753,
+   "lng": 8.450837,
+   "p": "Bachs",
+   "c": "ZH"
+  },
+  {
+   "k": 5830712446,
+   "d": "2025-09-23",
+   "n": "Russula cyanoxantha",
+   "lat": 47.3785,
+   "lng": 7.254175,
+   "p": "Develier",
+   "c": "JU"
+  },
+  {
+   "k": 5830980530,
+   "d": "2025-09-19",
+   "n": "Russula cyanoxantha",
+   "lat": 47.526858,
+   "lng": 8.4509,
+   "p": "Bachs",
+   "c": "ZH"
+  },
+  {
+   "k": 6118420266,
+   "d": "2025-09-19",
+   "n": "Russula cyanoxantha f. peltereaui",
+   "lat": 47.24318,
+   "lng": 7.20749,
+   "p": "Reconvilier",
+   "c": "BE"
+  },
+  {
+   "k": 6118420682,
+   "d": "2025-09-29",
+   "n": "Russula cyanoxantha var. variata",
+   "lat": 46.74831,
+   "lng": 7.14418,
+   "p": "Ependes",
+   "c": "FR"
+  },
+  {
+   "k": 6118422362,
+   "d": "2025-09-20",
+   "n": "Russula cyanoxantha",
+   "lat": 46.33752,
+   "lng": 8.64005,
+   "p": "Cevio",
+   "c": "TI"
+  },
+  {
+   "k": 6118425280,
+   "d": "2025-09-28",
+   "n": "Lactarius deliciosus",
+   "lat": 46.34385,
+   "lng": 7.53606,
+   "p": "Mollens",
+   "c": "VS"
+  },
+  {
+   "k": 5867966926,
+   "d": "2025-10-13",
+   "n": "Lactarius deliciosus",
+   "lat": 47.220076,
+   "lng": 7.198526,
+   "p": "Tavannes",
+   "c": "BE"
+  },
+  {
+   "k": 5868335110,
+   "d": "2025-10-16",
+   "n": "Lactarius deliciosus",
+   "lat": 46.267235,
+   "lng": 7.534692,
+   "p": "Chalais",
+   "c": "VS"
+  },
+  {
+   "k": 5868372095,
+   "d": "2025-10-16",
+   "n": "Lactarius deliciosus",
+   "lat": 46.296642,
+   "lng": 7.62571,
+   "p": "Leuk",
+   "c": "VS"
+  },
+  {
+   "k": 5920371298,
+   "d": "2025-10-03",
+   "n": "Lactarius deliciosus",
+   "lat": 46.831994,
+   "lng": 9.451939,
+   "p": "Domat/Ems",
+   "c": "GR"
+  },
+  {
+   "k": 6118421491,
+   "d": "2025-10-16",
+   "n": "Lactarius deliciosus",
+   "lat": 46.29879,
+   "lng": 7.60087,
+   "p": "Leuk",
+   "c": "VS"
+  },
+  {
+   "k": 6118422899,
+   "d": "2025-10-18",
+   "n": "Lactarius deliciosus",
+   "lat": 46.74473,
+   "lng": 6.48989,
+   "p": "Les Clées",
+   "c": "VD"
+  },
+  {
+   "k": 6118433527,
+   "d": "2025-10-19",
+   "n": "Lactarius deliciosus",
+   "lat": 46.20116,
+   "lng": 8.76661,
+   "p": "Avegno-Gordevio",
+   "c": "TI"
+  },
+  {
+   "k": 5828082824,
+   "d": "2025-09-13",
+   "n": "Lactarius deterrimus",
+   "lat": 46.63635,
+   "lng": 6.649133,
+   "p": "Echallens",
+   "c": "VD"
+  },
+  {
+   "k": 5830527765,
+   "d": "2025-09-21",
+   "n": "Lactarius deterrimus",
+   "lat": 46.60284,
+   "lng": 7.879355,
+   "p": "Lauterbrunnen",
+   "c": "BE"
+  },
+  {
+   "k": 5830829258,
+   "d": "2025-09-17",
+   "n": "Lactarius deterrimus",
+   "lat": 47.462855,
+   "lng": 7.66954,
+   "p": "Hochwald",
+   "c": "SO"
+  },
+  {
+   "k": 5830850534,
+   "d": "2025-09-17",
+   "n": "Lactarius deterrimus",
+   "lat": 46.725263,
+   "lng": 8.22532,
+   "p": "Hasliberg",
+   "c": "BE"
+  },
+  {
+   "k": 5837683404,
+   "d": "2025-09-23",
+   "n": "Lactarius deterrimus",
+   "lat": 46.870991,
+   "lng": 7.363253,
+   "p": "Köniz",
+   "c": "BE"
+  },
+  {
+   "k": 5837752659,
+   "d": "2025-09-27",
+   "n": "Lactarius deterrimus",
+   "lat": 46.951889,
+   "lng": 6.738604,
+   "p": "Noiraigue",
+   "c": "NE"
+  },
+  {
+   "k": 5837828728,
+   "d": "2025-09-29",
+   "n": "Lactarius deterrimus",
+   "lat": 47.28727,
+   "lng": 9.412383,
+   "p": "Schwende",
+   "c": "AI"
+  },
+  {
+   "k": 5837865615,
+   "d": "2025-09-26",
+   "n": "Lactarius deterrimus",
+   "lat": 46.532017,
+   "lng": 7.664725,
+   "p": "Kandergrund",
+   "c": "BE"
+  },
+  {
+   "k": 5828108427,
+   "d": "2025-09-16",
+   "n": "Lactarius salmonicolor",
+   "lat": 47.463893,
+   "lng": 7.660811,
+   "p": "Hochwald",
+   "c": "SO"
+  },
+  {
+   "k": 5830693351,
+   "d": "2025-09-21",
+   "n": "Lactarius salmonicolor",
+   "lat": 47.091525,
+   "lng": 7.129393,
+   "p": "Prêles",
+   "c": "BE"
+  },
+  {
+   "k": 5830856691,
+   "d": "2025-09-21",
+   "n": "Lactarius salmonicolor",
+   "lat": 47.486819,
+   "lng": 7.44019,
+   "p": "Rodersdorf",
+   "c": "SO"
+  },
+  {
+   "k": 5830880944,
+   "d": "2025-09-21",
+   "n": "Lactarius salmonicolor",
+   "lat": 47.002473,
+   "lng": 6.92542,
+   "p": "Neuchâtel",
+   "c": "NE"
+  },
+  {
+   "k": 5838089435,
+   "d": "2025-09-27",
+   "n": "Lactarius salmonicolor",
+   "lat": 46.948853,
+   "lng": 6.746318,
+   "p": "Boudry",
+   "c": "NE"
+  },
+  {
+   "k": 5839893276,
+   "d": "2025-09-28",
+   "n": "Lactarius salmonicolor",
+   "lat": 46.464611,
+   "lng": 6.160272,
+   "p": "Arzier",
+   "c": "VD"
+  },
+  {
+   "k": 6118419712,
+   "d": "2025-09-18",
+   "n": "Lactarius salmonicolor",
+   "lat": 47.19821,
+   "lng": 7.20768,
+   "p": "La Heutte",
+   "c": "BE"
+  },
+  {
+   "k": 6118419713,
+   "d": "2025-09-15",
+   "n": "Lactarius salmonicolor",
+   "lat": 46.96713,
+   "lng": 8.65414,
+   "p": "Morschach",
+   "c": "SZ"
+  },
+  {
+   "k": 5828501695,
+   "d": "2025-09-11",
+   "n": "Gomphidius glutinosus",
+   "lat": 47.549973,
+   "lng": 7.611889,
+   "p": "Switzerland",
+   "c": "SO"
+  },
+  {
+   "k": 5828830368,
+   "d": "2025-09-14",
+   "n": "Gomphidius glutinosus",
+   "lat": 46.33758,
+   "lng": 7.642812,
+   "p": "Albinen",
+   "c": "VS"
+  },
+  {
+   "k": 5830495434,
+   "d": "2025-09-23",
+   "n": "Gomphidius glutinosus",
+   "lat": 46.103497,
+   "lng": 7.20327,
+   "p": "Bagnes",
+   "c": "VS"
+  },
+  {
+   "k": 5838363466,
+   "d": "2025-09-30",
+   "n": "Gomphidius glutinosus",
+   "lat": 47.226337,
+   "lng": 7.04557,
+   "p": "La Chaux-des-Breuleux",
+   "c": "JU"
+  },
+  {
+   "k": 5844365081,
+   "d": "2025-09-14",
+   "n": "Gomphidius glutinosus",
+   "lat": 46.055675,
+   "lng": 6.996041,
+   "p": "Trient",
+   "c": "VS"
+  },
+  {
+   "k": 6118424710,
+   "d": "2025-09-24",
+   "n": "Gomphidius glutinosus",
+   "lat": 46.83695,
+   "lng": 8.06128,
+   "p": "Giswil",
+   "c": "OW"
+  },
+  {
+   "k": 6118435428,
+   "d": "2025-09-11",
+   "n": "Gomphidius glutinosus",
+   "lat": 46.60867,
+   "lng": 8.51553,
+   "p": "Realp",
+   "c": "UR"
+  },
+  {
+   "k": 6118439909,
+   "d": "2025-09-10",
+   "n": "Gomphidius glutinosus",
+   "lat": 47.28191,
+   "lng": 8.6613,
+   "p": "Meilen",
+   "c": "ZH"
+  },
+  {
+   "k": 6118440377,
+   "d": "2025-09-21",
+   "n": "Pleurotus ostreatus var. praecox",
+   "lat": 47.01748,
+   "lng": 6.94541,
+   "p": "Neuchâtel",
+   "c": "NE"
+  },
+  {
+   "k": 6118459678,
+   "d": "2025-09-16",
+   "n": "Pleurotus ostreatus",
+   "lat": 46.42745,
+   "lng": 6.23524,
+   "p": "Coinsins",
+   "c": "VD"
+  },
+  {
+   "k": 6118473852,
+   "d": "2025-09-16",
+   "n": "Pleurotus ostreatus",
+   "lat": 46.42745,
+   "lng": 6.23524,
+   "p": "Coinsins",
+   "c": "VD"
+  },
+  {
+   "k": 5889223075,
+   "d": "2025-10-04",
+   "n": "Pleurotus ostreatus",
+   "lat": 47.452479,
+   "lng": 7.626846,
+   "p": "Hochwald",
+   "c": "SO"
+  },
+  {
+   "k": 5889542626,
+   "d": "2025-10-23",
+   "n": "Pleurotus ostreatus",
+   "lat": 47.139574,
+   "lng": 7.374797,
+   "p": "Büren an der Aare",
+   "c": "BE"
+  },
+  {
+   "k": 5897766996,
+   "d": "2025-10-26",
+   "n": "Pleurotus ostreatus",
+   "lat": 46.156747,
+   "lng": 6.076481,
+   "p": "Bernex",
+   "c": "GE"
+  },
+  {
+   "k": 6118429079,
+   "d": "2025-10-31",
+   "n": "Pleurotus ostreatus",
+   "lat": 46.1554,
+   "lng": 8.83023,
+   "p": "Water body",
+   "c": "TI"
+  },
+  {
+   "k": 6118442948,
+   "d": "2025-10-28",
+   "n": "Pleurotus ostreatus",
+   "lat": 46.5187,
+   "lng": 6.36353,
+   "p": "Saint-Livres",
+   "c": "VD"
+  },
+  {
+   "k": 5827943835,
+   "d": "2025-09-13",
+   "n": "Laetiporus sulphureus",
+   "lat": 46.153553,
+   "lng": 6.078472,
+   "p": "Bernex",
+   "c": "GE"
+  },
+  {
+   "k": 5830397921,
+   "d": "2025-09-20",
+   "n": "Laetiporus sulphureus",
+   "lat": 46.507681,
+   "lng": 6.538552,
+   "p": "Lac Léman",
+   "c": "VD"
+  },
+  {
+   "k": 5830764405,
+   "d": "2025-09-21",
+   "n": "Laetiporus sulphureus",
+   "lat": 47.001206,
+   "lng": 6.927501,
+   "p": "Neuchâtel",
+   "c": "NE"
+  },
+  {
+   "k": 5837706813,
+   "d": "2025-09-25",
+   "n": "Laetiporus sulphureus",
+   "lat": 46.555857,
+   "lng": 6.637832,
+   "p": "Le Mont-sur-Lausanne",
+   "c": "VD"
+  },
+  {
+   "k": 5838029044,
+   "d": "2025-09-28",
+   "n": "Laetiporus sulphureus",
+   "lat": 46.507669,
+   "lng": 6.538581,
+   "p": "Lac Léman",
+   "c": "VD"
+  },
+  {
+   "k": 5838192729,
+   "d": "2025-09-27",
+   "n": "Laetiporus sulphureus",
+   "lat": 47.091659,
+   "lng": 7.129327,
+   "p": "Prêles",
+   "c": "BE"
+  },
+  {
+   "k": 6118431745,
+   "d": "2025-09-26",
+   "n": "Laetiporus sulphureus",
+   "lat": 47.15343,
+   "lng": 7.53752,
+   "p": "Bätterkinden",
+   "c": "BE"
+  },
+  {
+   "k": 6118444031,
+   "d": "2025-09-21",
+   "n": "Laetiporus sulphureus",
+   "lat": 47.01748,
+   "lng": 6.94541,
+   "p": "Neuchâtel",
+   "c": "NE"
+  },
+  {
+   "k": 5828309755,
+   "d": "2025-09-12",
+   "n": "Leccinum scabrum",
+   "lat": 47.410266,
+   "lng": 7.569283,
+   "p": "Breitenbach",
+   "c": "SO"
+  },
+  {
+   "k": 5830442597,
+   "d": "2025-09-20",
+   "n": "Leccinum scabrum",
+   "lat": 46.895523,
+   "lng": 7.85515,
+   "p": "Trubschachen",
+   "c": "BE"
+  },
+  {
+   "k": 5830588442,
+   "d": "2025-09-21",
+   "n": "Leccinum aurantiacum",
+   "lat": 47.488963,
+   "lng": 7.438396,
+   "p": "Rodersdorf",
+   "c": "SO"
+  },
+  {
+   "k": 5830592045,
+   "d": "2025-09-18",
+   "n": "Leccinum variicolor",
+   "lat": 46.627035,
+   "lng": 6.974499,
+   "p": "Sâles",
+   "c": "FR"
+  },
+  {
+   "k": 5830943492,
+   "d": "2025-09-21",
+   "n": "Leccinum aurantiacum",
+   "lat": 47.48911,
+   "lng": 7.433898,
+   "p": "Rodersdorf",
+   "c": "SO"
+  },
+  {
+   "k": 5837684813,
+   "d": "2025-09-14",
+   "n": "Leccinum scabrum",
+   "lat": 46.011983,
+   "lng": 7.119697,
+   "p": "Orsières",
+   "c": "VS"
+  },
+  {
+   "k": 5837917323,
+   "d": "2025-09-26",
+   "n": "Leccinum scabrum",
+   "lat": 47.147107,
+   "lng": 9.184063,
+   "p": "Amden",
+   "c": "SG"
+  },
+  {
+   "k": 5868119678,
+   "d": "2025-09-18",
+   "n": "Leccinum scabrum",
+   "lat": 46.483246,
+   "lng": 6.813697,
+   "p": "Chardonne",
+   "c": "VD"
+  },
+  {
+   "k": 5830648864,
+   "d": "2025-09-19",
+   "n": "Armillaria ostoyae",
+   "lat": 46.844242,
+   "lng": 9.308453,
+   "p": "Flims",
+   "c": "GR"
+  },
+  {
+   "k": 5830894475,
+   "d": "2025-09-21",
+   "n": "Armillaria cepistipes",
+   "lat": 47.407329,
+   "lng": 8.689713,
+   "p": "Volketswil",
+   "c": "ZH"
+  },
+  {
+   "k": 5837745004,
+   "d": "2025-09-27",
+   "n": "Armillaria ostoyae",
+   "lat": 47.09163,
+   "lng": 7.129317,
+   "p": "Prêles",
+   "c": "BE"
+  },
+  {
+   "k": 5838321831,
+   "d": "2025-09-27",
+   "n": "Armillaria ostoyae",
+   "lat": 47.014308,
+   "lng": 6.849635,
+   "p": "Les Geneveys-sur-Coffrane",
+   "c": "NE"
+  },
+  {
+   "k": 5867992092,
+   "d": "2025-09-27",
+   "n": "Armillaria mellea",
+   "lat": 47.368884,
+   "lng": 8.584124,
+   "p": "Hirslanden",
+   "c": "ZH"
+  },
+  {
+   "k": 5868343701,
+   "d": "2025-09-23",
+   "n": "Armillaria ostoyae",
+   "lat": 46.535188,
+   "lng": 6.388996,
+   "p": "Yens",
+   "c": "VD"
+  },
+  {
+   "k": 6116132395,
+   "d": "2025-09-17",
+   "n": "Armillaria",
+   "lat": 47.074531,
+   "lng": 7.307649,
+   "p": "Lyss",
+   "c": "BE"
+  },
+  {
+   "k": 6116135423,
+   "d": "2025-09-30",
+   "n": "Armillaria",
+   "lat": 46.922889,
+   "lng": 7.846683,
+   "p": "Trubschachen",
+   "c": "BE"
+  },
+  {
+   "k": 5830567562,
+   "d": "2025-09-20",
+   "n": "Lyophyllum decastes",
+   "lat": 47.123726,
+   "lng": 8.763489,
+   "p": "Einsiedeln",
+   "c": "SZ"
+  },
+  {
+   "k": 5830581942,
+   "d": "2025-09-17",
+   "n": "Lyophyllum decastes",
+   "lat": 47.487326,
+   "lng": 8.723247,
+   "p": "Winterthur",
+   "c": "ZH"
+  },
+  {
+   "k": 5838290365,
+   "d": "2025-09-28",
+   "n": "Lyophyllum decastes",
+   "lat": 46.486795,
+   "lng": 6.355713,
+   "p": "Pizy",
+   "c": "VD"
+  },
+  {
+   "k": 5838388660,
+   "d": "2025-09-28",
+   "n": "Lyophyllum decastes",
+   "lat": 47.427929,
+   "lng": 8.43636,
+   "p": "Weiningen",
+   "c": "ZH"
+  },
+  {
+   "k": 6118421835,
+   "d": "2025-09-28",
+   "n": "Lyophyllum fumosum",
+   "lat": 47.10838,
+   "lng": 7.60331,
+   "p": "Ersigen",
+   "c": "BE"
+  },
+  {
+   "k": 6118422338,
+   "d": "2025-09-29",
+   "n": "Lyophyllum decastes",
+   "lat": 46.56368,
+   "lng": 6.36264,
+   "p": "Ballens",
+   "c": "VD"
+  },
+  {
+   "k": 6118435125,
+   "d": "2025-09-25",
+   "n": "Lyophyllum fumosum",
+   "lat": 46.47309,
+   "lng": 6.29933,
+   "p": "Gilly",
+   "c": "VD"
+  },
+  {
+   "k": 6118439695,
+   "d": "2025-09-16",
+   "n": "Lyophyllum decastes",
+   "lat": 47.24341,
+   "lng": 7.47165,
+   "p": "Lommiswil",
+   "c": "SO"
+  },
+  {
+   "k": 6118428733,
+   "d": "2025-09-14",
+   "n": "Agaricus campestris",
+   "lat": 46.51668,
+   "lng": 6.16809,
+   "p": "Arzier",
+   "c": "VD"
+  },
+  {
+   "k": 6118431462,
+   "d": "2025-09-18",
+   "n": "Agaricus campestris",
+   "lat": 47.28838,
+   "lng": 7.40558,
+   "p": "Belprahon",
+   "c": "BE"
+  },
+  {
+   "k": 6118442907,
+   "d": "2025-09-18",
+   "n": "Agaricus campestris",
+   "lat": 46.45531,
+   "lng": 9.74931,
+   "p": "Sils im Engadin/Segl",
+   "c": "GR"
+  },
+  {
+   "k": 6118445469,
+   "d": "2025-09-10",
+   "n": "Agaricus campestris",
+   "lat": 46.42812,
+   "lng": 6.30028,
+   "p": "Dully",
+   "c": "VD"
+  },
+  {
+   "k": 6118453263,
+   "d": "2025-09-30",
+   "n": "Agaricus campestris",
+   "lat": 47.06215,
+   "lng": 6.87918,
+   "p": "Fontainemelon",
+   "c": "NE"
+  },
+  {
+   "k": 6118456727,
+   "d": "2025-09-18",
+   "n": "Agaricus campestris",
+   "lat": 46.50027,
+   "lng": 9.75122,
+   "p": "Silvaplana",
+   "c": "GR"
+  },
+  {
+   "k": 6118462388,
+   "d": "2025-09-18",
+   "n": "Agaricus campestris",
+   "lat": 47.06272,
+   "lng": 7.01081,
+   "p": "Enges",
+   "c": "NE"
+  },
+  {
+   "k": 6118464169,
+   "d": "2025-09-17",
+   "n": "Agaricus campestris",
+   "lat": 47.05311,
+   "lng": 8.98516,
+   "p": "Glarus",
+   "c": "GL"
+  },
+  {
+   "k": 6118425554,
+   "d": "2025-09-16",
+   "n": "Agaricus arvensis",
+   "lat": 46.41292,
+   "lng": 9.61739,
+   "p": "Stampa",
+   "c": "GR"
+  },
+  {
+   "k": 6118442924,
+   "d": "2025-09-30",
+   "n": "Agaricus arvensis",
+   "lat": 46.70359,
+   "lng": 7.27519,
+   "p": "Plaffeien",
+   "c": "FR"
+  },
+  {
+   "k": 6118466712,
+   "d": "2025-09-14",
+   "n": "Agaricus arvensis",
+   "lat": 47.15343,
+   "lng": 7.53752,
+   "p": "Bätterkinden",
+   "c": "BE"
+  },
+  {
+   "k": 6118474143,
+   "d": "2025-09-30",
+   "n": "Agaricus arvensis",
+   "lat": 47.32006,
+   "lng": 9.19135,
+   "p": "St. Peterzell",
+   "c": "SG"
+  },
+  {
+   "k": 6118432259,
+   "d": "2025-10-15",
+   "n": "Agaricus arvensis",
+   "lat": 46.59636,
+   "lng": 9.42896,
+   "p": "Andeer",
+   "c": "GR"
+  },
+  {
+   "k": 6118443495,
+   "d": "2025-10-07",
+   "n": "Agaricus arvensis",
+   "lat": 47.42273,
+   "lng": 7.07418,
+   "p": "Porrentruy",
+   "c": "JU"
+  },
+  {
+   "k": 4949915891,
+   "d": "2024-09-21",
+   "n": "Boletus edulis",
+   "lat": 46.752767,
+   "lng": 9.79492,
+   "p": "Davos",
+   "c": "GR"
+  },
+  {
+   "k": 4950437579,
+   "d": "2024-09-18",
+   "n": "Boletus edulis",
+   "lat": 46.707012,
+   "lng": 7.865122,
+   "p": "Unterseen",
+   "c": "BE"
+  },
+  {
+   "k": 4952786230,
+   "d": "2024-09-30",
+   "n": "Boletus edulis",
+   "lat": 46.964415,
+   "lng": 6.807493,
+   "p": "Boudry",
+   "c": "NE"
+  },
+  {
+   "k": 4953114056,
+   "d": "2024-09-29",
+   "n": "Boletus edulis",
+   "lat": 46.821389,
+   "lng": 7.587652,
+   "p": "Bern",
+   "c": "BE"
+  },
+  {
+   "k": 5082004770,
+   "d": "2024-09-13",
+   "n": "Boletus edulis",
+   "lat": 47.24303,
+   "lng": 7.14145,
+   "p": "Tramelan",
+   "c": "BE"
+  },
+  {
+   "k": 5082004828,
+   "d": "2024-09-16",
+   "n": "Boletus edulis",
+   "lat": 46.69153,
+   "lng": 9.10556,
+   "p": "Lumbrein",
+   "c": "GR"
+  },
+  {
+   "k": 5082004880,
+   "d": "2024-09-16",
+   "n": "Boletus edulis",
+   "lat": 46.79344,
+   "lng": 7.66784,
+   "p": "Steffisburg",
+   "c": "BE"
+  },
+  {
+   "k": 4946708709,
+   "d": "2024-09-15",
+   "n": "Imleria badia",
+   "lat": 46.648045,
+   "lng": 7.385121,
+   "p": "Oberwil im Simmental",
+   "c": "BE"
+  },
+  {
+   "k": 4949880944,
+   "d": "2024-09-22",
+   "n": "Imleria badia",
+   "lat": 46.747234,
+   "lng": 7.901098,
+   "p": "Habkern",
+   "c": "BE"
+  },
+  {
+   "k": 4953001781,
+   "d": "2024-09-28",
+   "n": "Imleria badia",
+   "lat": 46.538379,
+   "lng": 6.732108,
+   "p": "Savigny",
+   "c": "VD"
+  },
+  {
+   "k": 5082006065,
+   "d": "2024-09-11",
+   "n": "Imleria badia",
+   "lat": 47.40679,
+   "lng": 9.39299,
+   "p": "St. Gallen",
+   "c": "SG"
+  },
+  {
+   "k": 5082008760,
+   "d": "2024-09-24",
+   "n": "Imleria badia",
+   "lat": 46.7479,
+   "lng": 7.86395,
+   "p": "Habkern",
+   "c": "BE"
+  },
+  {
+   "k": 5082010239,
+   "d": "2024-09-29",
+   "n": "Imleria badia",
+   "lat": 47.10057,
+   "lng": 8.78891,
+   "p": "Einsiedeln",
+   "c": "SZ"
+  },
+  {
+   "k": 5082010762,
+   "d": "2024-09-24",
+   "n": "Imleria badia",
+   "lat": 46.7479,
+   "lng": 7.86395,
+   "p": "Habkern",
+   "c": "BE"
+  },
+  {
+   "k": 4945923725,
+   "d": "2024-09-10",
+   "n": "Cantharellus cibarius",
+   "lat": 46.468769,
+   "lng": 8.915014,
+   "p": "Acquarossa",
+   "c": "TI"
+  },
+  {
+   "k": 4946251095,
+   "d": "2024-09-14",
+   "n": "Craterellus cinereus",
+   "lat": 46.821638,
+   "lng": 6.815128,
+   "p": "Switzerland",
+   "c": "NE"
+  },
+  {
+   "k": 4946268861,
+   "d": "2024-09-10",
+   "n": "Cantharellus cibarius",
+   "lat": 46.46873,
+   "lng": 8.914977,
+   "p": "Acquarossa",
+   "c": "TI"
+  },
+  {
+   "k": 4946402042,
+   "d": "2024-09-10",
+   "n": "Cantharellus amethysteus",
+   "lat": 46.46853,
+   "lng": 8.913769,
+   "p": "Acquarossa",
+   "c": "TI"
+  },
+  {
+   "k": 4949862335,
+   "d": "2024-09-20",
+   "n": "Cantharellus cibarius",
+   "lat": 47.178722,
+   "lng": 9.29168,
+   "p": "Alt St. Johann",
+   "c": "SG"
+  },
+  {
+   "k": 4949953821,
+   "d": "2024-09-25",
+   "n": "Cantharellus amethysteus",
+   "lat": 47.217281,
+   "lng": 9.314449,
+   "p": "Alt St. Johann",
+   "c": "SG"
+  },
+  {
+   "k": 4952304617,
+   "d": "2024-09-28",
+   "n": "Craterellus cinereus",
+   "lat": 46.617271,
+   "lng": 6.485755,
+   "p": "La Chaux",
+   "c": "VD"
+  },
+  {
+   "k": 4952879099,
+   "d": "2024-09-30",
+   "n": "Craterellus melanoxeros",
+   "lat": 46.964849,
+   "lng": 6.807539,
+   "p": "Rochefort",
+   "c": "NE"
+  },
+  {
+   "k": 4946252157,
+   "d": "2024-09-14",
+   "n": "Craterellus cornucopioides",
+   "lat": 46.920716,
+   "lng": 6.820202,
+   "p": "Switzerland",
+   "c": "NE"
+  },
+  {
+   "k": 4952211184,
+   "d": "2024-09-28",
+   "n": "Craterellus cornucopioides var. flavicans",
+   "lat": 46.620347,
+   "lng": 6.48486,
+   "p": "La Chaux",
+   "c": "VD"
+  },
+  {
+   "k": 4952275586,
+   "d": "2024-09-29",
+   "n": "Craterellus cornucopioides",
+   "lat": 46.90936,
+   "lng": 7.457928,
+   "p": "Kehrsatz",
+   "c": "BE"
+  },
+  {
+   "k": 4952712927,
+   "d": "2024-09-30",
+   "n": "Craterellus cornucopioides",
+   "lat": 46.536792,
+   "lng": 6.669337,
+   "p": "Lausanne",
+   "c": "VD"
+  },
+  {
+   "k": 4953086604,
+   "d": "2024-09-28",
+   "n": "Craterellus cornucopioides",
+   "lat": 46.617274,
+   "lng": 6.485752,
+   "p": "La Chaux",
+   "c": "NE"
+  },
+  {
+   "k": 4953086628,
+   "d": "2024-09-30",
+   "n": "Craterellus cornucopioides",
+   "lat": 46.964172,
+   "lng": 6.805473,
+   "p": "Boudry",
+   "c": "NE"
+  },
+  {
+   "k": 5082003753,
+   "d": "2024-09-12",
+   "n": "Craterellus cornucopioides",
+   "lat": 47.06246,
+   "lng": 6.945,
+   "p": "Savagnier",
+   "c": "NE"
+  },
+  {
+   "k": 5082006856,
+   "d": "2024-09-15",
+   "n": "Craterellus cornucopioides",
+   "lat": 46.56428,
+   "lng": 6.42784,
+   "p": "Apples",
+   "c": "VD"
+  },
+  {
+   "k": 4950245552,
+   "d": "2024-09-16",
+   "n": "Hydnum repandum",
+   "lat": 46.55455,
+   "lng": 7.325105,
+   "p": "Boltigen",
+   "c": "BE"
+  },
+  {
+   "k": 4950411136,
+   "d": "2024-09-20",
+   "n": "Hydnum repandum",
+   "lat": 47.008797,
+   "lng": 7.108982,
+   "p": "Ins",
+   "c": "BE"
+  },
+  {
+   "k": 5082005253,
+   "d": "2024-09-12",
+   "n": "Hydnum repandum",
+   "lat": 46.42355,
+   "lng": 8.96722,
+   "p": "Ludiano",
+   "c": "TI"
+  },
+  {
+   "k": 5082009563,
+   "d": "2024-09-14",
+   "n": "Hydnum rufescens",
+   "lat": 46.5187,
+   "lng": 6.36353,
+   "p": "Saint-Livres",
+   "c": "VD"
+  },
+  {
+   "k": 5082011590,
+   "d": "2024-09-13",
+   "n": "Hydnum repandum",
+   "lat": 46.9278,
+   "lng": 7.86537,
+   "p": "Trubschachen",
+   "c": "BE"
+  },
+  {
+   "k": 5082012622,
+   "d": "2024-09-29",
+   "n": "Hydnum rufescens",
+   "lat": 46.9278,
+   "lng": 7.86537,
+   "p": "Trubschachen",
+   "c": "BE"
+  },
+  {
+   "k": 5082013227,
+   "d": "2024-09-29",
+   "n": "Hydnum repandum",
+   "lat": 46.6585,
+   "lng": 7.21,
+   "p": "Cerniat",
+   "c": "FR"
+  },
+  {
+   "k": 5082014392,
+   "d": "2024-09-29",
+   "n": "Lepista nuda",
+   "lat": 46.74857,
+   "lng": 7.27505,
+   "p": "Brünisried",
+   "c": "FR"
+  },
+  {
+   "k": 5082014489,
+   "d": "2024-09-27",
+   "n": "Lepista nuda",
+   "lat": 47.14304,
+   "lng": 8.98776,
+   "p": "Bilten",
+   "c": "GL"
+  },
+  {
+   "k": 6118420530,
+   "d": "2024-09-28",
+   "n": "Lepista nuda",
+   "lat": 47.0634,
+   "lng": 7.60318,
+   "p": "Burgdorf",
+   "c": "BE"
+  },
+  {
+   "k": 5082009028,
+   "d": "2024-10-10",
+   "n": "Lepista nuda",
+   "lat": 47.1359,
+   "lng": 9.44903,
+   "p": "Sevelen",
+   "c": "SG"
+  },
+  {
+   "k": 5082009172,
+   "d": "2024-10-04",
+   "n": "Lepista nuda",
+   "lat": 47.46789,
+   "lng": 7.14019,
+   "p": "Bonfol",
+   "c": "JU"
+  },
+  {
+   "k": 5082009185,
+   "d": "2024-10-11",
+   "n": "Lepista nuda",
+   "lat": 46.60925,
+   "lng": 6.427,
+   "p": "L’Isle",
+   "c": "VD"
+  },
+  {
+   "k": 5082009886,
+   "d": "2024-10-18",
+   "n": "Lepista nuda",
+   "lat": 47.01748,
+   "lng": 6.94541,
+   "p": "Neuchâtel",
+   "c": "NE"
+  },
+  {
+   "k": 5082010034,
+   "d": "2024-10-13",
+   "n": "Lepista nuda",
+   "lat": 47.0185,
+   "lng": 7.53728,
+   "p": "Bäriswil",
+   "c": "BE"
+  },
+  {
+   "k": 4954475548,
+   "d": "2024-10-13",
+   "n": "Sparassis crispa",
+   "lat": 46.801026,
+   "lng": 7.187627,
+   "p": "St. Ursen",
+   "c": "FR"
+  },
+  {
+   "k": 4978352297,
+   "d": "2024-10-30",
+   "n": "Sparassis crispa",
+   "lat": 46.964343,
+   "lng": 6.807069,
+   "p": "Boudry",
+   "c": "NE"
+  },
+  {
+   "k": 4946360628,
+   "d": "2024-09-11",
+   "n": "Macrolepiota procera",
+   "lat": 46.525511,
+   "lng": 8.939197,
+   "p": "Blenio",
+   "c": "TI"
+  },
+  {
+   "k": 4950393799,
+   "d": "2024-09-17",
+   "n": "Macrolepiota procera",
+   "lat": 46.638142,
+   "lng": 7.395949,
+   "p": "Boltigen",
+   "c": "BE"
+  },
+  {
+   "k": 4950434444,
+   "d": "2024-09-13",
+   "n": "Macrolepiota procera",
+   "lat": 47.128533,
+   "lng": 6.925167,
+   "p": "Renan",
+   "c": "BE"
+  },
+  {
+   "k": 4950454682,
+   "d": "2024-09-25",
+   "n": "Macrolepiota procera",
+   "lat": 47.409027,
+   "lng": 7.533219,
+   "p": "Wahlen",
+   "c": "BL"
+  },
+  {
+   "k": 4950570178,
+   "d": "2024-09-23",
+   "n": "Macrolepiota procera",
+   "lat": 46.254975,
+   "lng": 7.559333,
+   "p": "Chalais",
+   "c": "VS"
+  },
+  {
+   "k": 4952251323,
+   "d": "2024-09-30",
+   "n": "Macrolepiota procera",
+   "lat": 46.964135,
+   "lng": 6.80529,
+   "p": "Boudry",
+   "c": "NE"
+  },
+  {
+   "k": 4952566293,
+   "d": "2024-09-29",
+   "n": "Macrolepiota procera",
+   "lat": 47.40301,
+   "lng": 8.988422,
+   "p": "Kirchberg",
+   "c": "SG"
+  },
+  {
+   "k": 4952614041,
+   "d": "2024-09-29",
+   "n": "Macrolepiota procera",
+   "lat": 46.923285,
+   "lng": 7.440238,
+   "p": "Köniz",
+   "c": "BE"
+  },
+  {
+   "k": 4945997342,
+   "d": "2024-09-16",
+   "n": "Craterellus tubaeformis",
+   "lat": 46.512352,
+   "lng": 6.916818,
+   "p": "Vaud",
+   "c": "VD"
+  },
+  {
+   "k": 4946650907,
+   "d": "2024-09-11",
+   "n": "Craterellus tubaeformis",
+   "lat": 46.493242,
+   "lng": 7.549983,
+   "p": "Adelboden",
+   "c": "BE"
+  },
+  {
+   "k": 4950370661,
+   "d": "2024-09-16",
+   "n": "Craterellus tubaeformis",
+   "lat": 46.098742,
+   "lng": 7.180922,
+   "p": "Vollèges",
+   "c": "VS"
+  },
+  {
+   "k": 5082004262,
+   "d": "2024-09-10",
+   "n": "Craterellus tubaeformis",
+   "lat": 46.5663,
+   "lng": 6.68868,
+   "p": "Lausanne",
+   "c": "VD"
+  },
+  {
+   "k": 5082006772,
+   "d": "2024-09-15",
+   "n": "Craterellus tubaeformis",
+   "lat": 47.35951,
+   "lng": 9.52367,
+   "p": "Altstätten",
+   "c": "SG"
+  },
+  {
+   "k": 5082008218,
+   "d": "2024-09-10",
+   "n": "Craterellus tubaeformis",
+   "lat": 46.47777,
+   "lng": 6.95034,
+   "p": "Montreux",
+   "c": "VD"
+  },
+  {
+   "k": 5082008751,
+   "d": "2024-09-29",
+   "n": "Craterellus tubaeformis",
+   "lat": 46.70165,
+   "lng": 8.1251,
+   "p": "Meiringen",
+   "c": "BE"
+  },
+  {
+   "k": 5082008753,
+   "d": "2024-09-24",
+   "n": "Craterellus tubaeformis",
+   "lat": 46.7479,
+   "lng": 7.86395,
+   "p": "Habkern",
+   "c": "BE"
+  },
+  {
+   "k": 4949844165,
+   "d": "2024-09-11",
+   "n": "Leccinum leucopodium",
+   "lat": 46.522614,
+   "lng": 8.91702,
+   "p": "Blenio",
+   "c": "TI"
+  },
+  {
+   "k": 4950574398,
+   "d": "2024-09-20",
+   "n": "Leccinum scabrum",
+   "lat": 47.008797,
+   "lng": 7.108982,
+   "p": "Ins",
+   "c": "BE"
+  },
+  {
+   "k": 4952211203,
+   "d": "2024-09-29",
+   "n": "Leccinum scabrum",
+   "lat": 46.543855,
+   "lng": 6.655646,
+   "p": "Lausanne",
+   "c": "VD"
+  },
+  {
+   "k": 5082003760,
+   "d": "2024-09-14",
+   "n": "Leccinum aurantiacum",
+   "lat": 46.5187,
+   "lng": 6.36353,
+   "p": "Saint-Livres",
+   "c": "VD"
+  },
+  {
+   "k": 5082007191,
+   "d": "2024-09-16",
+   "n": "Leccinum scabrum",
+   "lat": 46.92754,
+   "lng": 7.93102,
+   "p": "Escholzmatt",
+   "c": "LU"
+  },
+  {
+   "k": 5082010416,
+   "d": "2024-09-29",
+   "n": "Leccinum scabrum",
+   "lat": 46.56585,
+   "lng": 6.62347,
+   "p": "Le Mont-sur-Lausanne",
+   "c": "VD"
+  },
+  {
+   "k": 5082013338,
+   "d": "2024-09-26",
+   "n": "Leccinum variicolor",
+   "lat": 46.29756,
+   "lng": 6.88707,
+   "p": "Vionnaz",
+   "c": "VS"
+  },
+  {
+   "k": 5082013417,
+   "d": "2024-09-21",
+   "n": "Leccinum scabrum",
+   "lat": 47.0522,
+   "lng": 9.05096,
+   "p": "Riedern",
+   "c": "GL"
+  }
+ ],
+ "cantons": [
+  {
+   "c": "ZH",
+   "name": "Zürich",
+   "lat": 47.3769,
+   "lng": 8.5417
+  },
+  {
+   "c": "BE",
+   "name": "Bern",
+   "lat": 46.948,
+   "lng": 7.4474
+  },
+  {
+   "c": "LU",
+   "name": "Luzern",
+   "lat": 47.0502,
+   "lng": 8.3093
+  },
+  {
+   "c": "UR",
+   "name": "Uri",
+   "lat": 46.8804,
+   "lng": 8.6444
+  },
+  {
+   "c": "SZ",
+   "name": "Schwyz",
+   "lat": 47.0207,
+   "lng": 8.6541
+  },
+  {
+   "c": "OW",
+   "name": "Obwalden",
+   "lat": 46.8963,
+   "lng": 8.2461
+  },
+  {
+   "c": "NW",
+   "name": "Nidwalden",
+   "lat": 46.9579,
+   "lng": 8.3658
+  },
+  {
+   "c": "GL",
+   "name": "Glarus",
+   "lat": 47.0404,
+   "lng": 9.068
+  },
+  {
+   "c": "ZG",
+   "name": "Zug",
+   "lat": 47.1662,
+   "lng": 8.5155
+  },
+  {
+   "c": "FR",
+   "name": "Fribourg",
+   "lat": 46.8065,
+   "lng": 7.162
+  },
+  {
+   "c": "SO",
+   "name": "Solothurn",
+   "lat": 47.2088,
+   "lng": 7.5323
+  },
+  {
+   "c": "BS",
+   "name": "Basel-Stadt",
+   "lat": 47.5596,
+   "lng": 7.5886
+  },
+  {
+   "c": "BL",
+   "name": "Basel-Landschaft",
+   "lat": 47.4839,
+   "lng": 7.7349
+  },
+  {
+   "c": "SH",
+   "name": "Schaffhausen",
+   "lat": 47.6973,
+   "lng": 8.6349
+  },
+  {
+   "c": "AR",
+   "name": "Appenzell Ausserrhoden",
+   "lat": 47.3861,
+   "lng": 9.2792
+  },
+  {
+   "c": "AI",
+   "name": "Appenzell Innerrhoden",
+   "lat": 47.3302,
+   "lng": 9.4086
+  },
+  {
+   "c": "SG",
+   "name": "St. Gallen",
+   "lat": 47.4245,
+   "lng": 9.3767
+  },
+  {
+   "c": "GR",
+   "name": "Graubünden",
+   "lat": 46.8508,
+   "lng": 9.532
+  },
+  {
+   "c": "AG",
+   "name": "Aargau",
+   "lat": 47.3925,
+   "lng": 8.0442
+  },
+  {
+   "c": "TG",
+   "name": "Thurgau",
+   "lat": 47.5576,
+   "lng": 8.8987
+  },
+  {
+   "c": "TI",
+   "name": "Ticino",
+   "lat": 46.1955,
+   "lng": 9.0236
+  },
+  {
+   "c": "VD",
+   "name": "Vaud",
+   "lat": 46.5197,
+   "lng": 6.6323
+  },
+  {
+   "c": "VS",
+   "name": "Valais",
+   "lat": 46.2331,
+   "lng": 7.3606
+  },
+  {
+   "c": "NE",
+   "name": "Neuchâtel",
+   "lat": 46.99,
+   "lng": 6.9293
+  },
+  {
+   "c": "GE",
+   "name": "Genève",
+   "lat": 46.2044,
+   "lng": 6.1432
+  },
+  {
+   "c": "JU",
+   "name": "Jura",
+   "lat": 47.365,
+   "lng": 7.343
+  }
+ ]
+}

@@ -1,0 +1,37 @@
+name: Update finds and forecast
+
+on:
+  schedule:
+    # Four times a day (times in UTC; about 05:50, 11:50, 17:50 and 23:50 in Zürich)
+    - cron: "50 3,9,15,21 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-data
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Fetch GBIF finds and MET Norway forecasts
+        run: python scripts/update_data.py
+      - name: Commit if anything changed
+        run: |
+          if git diff --quiet; then
+            echo "No changes."
+            exit 0
+          fi
+          git config user.name "pilzradar-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add index.html data.json
+          git commit -m "Update finds and forecast"
+          git push
